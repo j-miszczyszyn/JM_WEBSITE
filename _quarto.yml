@@ -1,24 +1,25 @@
 project:
   type: website
   output-dir: docs
+
 website:
   title: "GIS Miszczyszyn - Jakub Miszczyszyn"
   navbar:
+    logo: logo.png
     right:
       - text: "About"
         href: about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/j-miszczyszyn
       - icon: twitter
-        href: https://twitter.com
-      - text: "Wykresy"
-        href: wykresy.qmd       
-    logo: logo.png
-    
+        href: https://twitter.com/j-miszczyszyn # upewnij się, że link prowadzi do właściwego konta Twitter
+
 format:
   html:
     theme: cosmo
     css: styles.css
-
-
-  
+    # Dodaj ikony Font Awesome do dokumentu
+    # Dzięki temu ikony w navbar będą poprawnie wyświetlane
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
