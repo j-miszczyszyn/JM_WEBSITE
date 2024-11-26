@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "GIS Miszczyszyn - Jakub Miszczyszyn"
   navbar:
@@ -16,5 +16,5 @@ format:
     theme: cosmo
     css: styles.css
 
-editor: visual
-output-dir: docs
+
+  
