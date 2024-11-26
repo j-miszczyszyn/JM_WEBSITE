@@ -11,6 +11,10 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - text: "Wykresy"
+        href: wykresy.qmd       
+    logo: logo.png
+    
 format:
   html:
     theme: cosmo

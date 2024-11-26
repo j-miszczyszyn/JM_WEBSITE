@@ -26,5 +26,19 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "wykresy.html",
+    "href": "wykresy.html",
+    "title": "Wykresy",
+    "section": "",
+    "text": "Poniżej znajduje się interaktywny wykres Plotly osadzony przy użyciu iframe:"
+  },
+  {
+    "objectID": "wykresy.html#wykres-zamierania",
+    "href": "wykresy.html#wykres-zamierania",
+    "title": "Wykresy",
+    "section": "",
+    "text": "Poniżej znajduje się interaktywny wykres Plotly osadzony przy użyciu iframe:"
   }
 ]
