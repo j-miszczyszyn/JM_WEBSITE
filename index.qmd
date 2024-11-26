@@ -1,5 +1,5 @@
 ---
-title: "JM_WEBSITE"
+title: "Strona główna"
 listing:
   contents: posts
   sort: "date desc"
