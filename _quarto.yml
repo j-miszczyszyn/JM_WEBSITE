@@ -13,6 +13,8 @@ website:
         href: https://github.com/j-miszczyszyn
       - icon: twitter
         href: https://twitter.com/j-miszczyszyn # upewnij się, że link prowadzi do właściwego konta Twitter
+      - icon: linkedin
+        href: https://linkedin.com/in/j-miszczyszyn  
 
 format:
   html:
