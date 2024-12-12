@@ -10,8 +10,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-    - icon: "fa-brands fa-orcid"
-      text: ORCID
+    - icon: "<img src='assets/icons/orcid.svg'>"
       href: https://orcid.org/0009-0002-8592-946X
     - icon: link
       text: Strona URK
