@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "GIS Miszczyszyn - Jakub Miszczyszyn"
+  title: "Jakub Miszczyszyn"
   navbar:
     logo: logo.png
     right:
