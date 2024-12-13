@@ -1,12 +1,29 @@
 ---
-title: "Strona główna"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Jakub Miszczyszyn"
+image: assets/images/jm.webp
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jakub-miszczyszyn-bab31b1b8/
+    - icon: github
+      text: Github
+      href: https://github.com
+    - text: "<img src='assets/icons/orcid.svg' alt='ORCID' style='height: 15px; vertical-align: middle;'> ORCID"
+      href: https://orcid.org/0009-0002-8592-946X
+    - text: "<img src='assets/icons/logo_URK.svg' alt='URK' style='height: 20px; vertical-align: middle;'> Profil pracownika URK"
+      href: https://kzzl.urk.edu.pl/pracownicy/jakubmiszczyszyn-15.html
+    - text: "<img src='assets/icons/RG.svg' alt='Researchgate' style='height: 20px; vertical-align: middle;'> Researchgate"
+      href: https://www.researchgate.net/profile/Jakub-Miszczyszyn
+    - text: "<img src='assets/icons/repo_URK.svg' alt='Repozytorium URK' style='height: 20px; vertical-align: middle;'> Repozytorium URK"
+      href: https://repo.ur.krakow.pl/info/author/URffe710e529174126807f9ed0e09f9826?r=publication&ps=20&title=Profil%2Bosoby%2B%25E2%258
+    - text: "<img src='assets/icons/google-scholar.svg' alt='Google Scholar' style='height: 20px; vertical-align: middle;'> Google Scholar"
+      href: https://scholar.google.com/citations?user=OyrD-UYAAAAJ&hl=en&oi=ao
 ---
+
+::: {style="text-align: center;"}
+I am a specialist in geoinformatics, remote sensing, and spatial data analysis. As a technician, I actively support the scientific and educational activities at the **University of Agriculture in Krakow**, including serving as the supervisor of the Geomatics Section of the Forestry Students’ Scientific Association.\
+My experience includes: **Programming in R**, **Operating drones**, acquiring data using **LiDAR** technology, as well as **multispectral** and **thermal cameras**. I am passionate about photography and studying forest ecosystems, combining modern technologies with practical applications in environmental protection.\
+My mission is to promote sustainable natural resource management by implementing innovative technological solutions.
+:::

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Strona główna",
+    "title": "Jakub Miszczyszyn",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 26, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 23, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "I am a specialist in geoinformatics, remote sensing, and spatial data analysis. As a technician, I actively support the scientific and educational activities at the University of Agriculture in Krakow, including serving as the supervisor of the Geomatics Section of the Forestry Students’ Scientific Association.\nMy experience includes: Programming in R, Operating drones, acquiring data using LiDAR technology, as well as multispectral and thermal cameras. I am passionate about photography and studying forest ecosystems, combining modern technologies with practical applications in environmental protection.\nMy mission is to promote sustainable natural resource management by implementing innovative technological solutions."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -40,5 +40,12 @@
     "title": "Wykresy",
     "section": "",
     "text": "Poniżej znajduje się interaktywny wykres Plotly osadzony przy użyciu iframe:"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 26, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 23, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]

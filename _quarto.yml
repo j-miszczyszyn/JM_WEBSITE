@@ -3,12 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Jakub Miszczyszyn"
+  title: "Home"
   navbar:
     logo: logo.png
+    left: 
+      - text: "Blog"
+        href: posts.qmd
+      - text: "Research Articles"
+        href: publications.qmd
+      - text: "Programming"
+        href: programming.qmd
+      - text: "Photography"
+        href: photography.qmd
     right:
       - text: "About"
-        href: about.qmd
+        href: index.qmd
       - icon: github
         href: https://github.com/j-miszczyszyn
       - icon: linkedin
