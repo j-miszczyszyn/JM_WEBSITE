@@ -1,1 +1,15 @@
 /* css styles */
+.quarto-about .about-links {
+  display: flex;
+  justify-content: center; /* Wyśrodkowanie */
+  gap: 15px; /* Odstęp między kafelkami */
+  flex-wrap: wrap; /* Zawijanie wierszy na mniejszych ekranach */
+  margin-top: 20px; /* Odstęp od treści powyżej */
+}
+
+.quarto-about .about-links a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
