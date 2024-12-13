@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <url>
   <loc>https://miszczyszyn.org/</loc>
   <lastmod>2024-12-13T02:05:24+00:00</lastmod>
@@ -46,5 +45,4 @@
   <lastmod>2024-12-13T02:05:24+00:00</lastmod>
   <priority>0.51</priority>
 </url>
-
 </urlset>
