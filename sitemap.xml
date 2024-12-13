@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://miszczyszyn.org</loc>
-  </url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+
+<url>
+  <loc>https://miszczyszyn.org/</loc>
+  <lastmod>2024-12-13T02:05:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://miszczyszyn.org/index.html</loc>
+  <lastmod>2024-12-13T02:05:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miszczyszyn.org/posts.html</loc>
+  <lastmod>2024-12-13T02:05:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miszczyszyn.org/publications.html</loc>
+  <lastmod>2024-12-13T02:05:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miszczyszyn.org/programming.html</loc>
+  <lastmod>2024-12-13T02:05:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miszczyszyn.org/photography.html</loc>
+  <lastmod>2024-12-13T02:05:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://miszczyszyn.org/posts/post-with-code/index.html</loc>
+  <lastmod>2024-12-13T02:05:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miszczyszyn.org/posts/welcome/index.html</loc>
+  <lastmod>2024-12-13T02:05:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://miszczyszyn.org/about.html</loc>
+  <lastmod>2024-12-13T02:05:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
 </urlset>
