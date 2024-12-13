@@ -23,9 +23,9 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Welcome to My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Welcome to my blog! My name is Jakub Miszczyszyn, and I am currently pursuing a Ph.D. in forestry, with a strong focus on using advanced geoinformatics and remote sensing tools to better understand and manage forest ecosystems. 🌲"
   },
   {
     "objectID": "wykresy.html",
@@ -46,7 +46,7 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 26, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 23, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to My Blog\n\n\n\n\n\n\nIntroduction\n\n\nForestry\n\n\nResearch\n\n\n\nIntroduction to my research blog with a focus on forestry, geoinformatics, and my doctoral journey.\n\n\n\n\n\nDec 13, 2024\n\n\nJakub Miszczyszyn\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "programming.html",
@@ -61,5 +61,26 @@
     "title": "Research Articles",
     "section": "",
     "text": "In the progres…"
+  },
+  {
+    "objectID": "posts/welcome/index.html#why-this-blog",
+    "href": "posts/welcome/index.html#why-this-blog",
+    "title": "Welcome to My Blog",
+    "section": "Why This Blog?",
+    "text": "Why This Blog?\nAs a researcher and forestry enthusiast, I created this blog to share insights from my academic journey and professional projects. My goal is to blend technology and environmental science, especially in areas like:\n\nForest ecosystem monitoring using drones, LiDAR, and multispectral cameras.\nDeveloping innovative methods for sustainable forest management.\nSharing my personal experiences from research and teaching.\n\nI’m currently affiliated with the University of Agriculture in Krakow, where I actively contribute to scientific and educational activities. You can explore my university profile here."
+  },
+  {
+    "objectID": "posts/welcome/index.html#links-to-my-work",
+    "href": "posts/welcome/index.html#links-to-my-work",
+    "title": "Welcome to My Blog",
+    "section": "Links to My Work",
+    "text": "Links to My Work\nHere are some additional ways to connect with me and explore my projects:\n\nGitHub – where I share my coding projects, primarily in R.\nResearchGate – for my latest publications and research updates.\nUniversity Profile – for more details about my academic work."
+  },
+  {
+    "objectID": "posts/welcome/index.html#whats-next",
+    "href": "posts/welcome/index.html#whats-next",
+    "title": "Welcome to My Blog",
+    "section": "What’s Next?",
+    "text": "What’s Next?\nThrough this blog, I’ll dive into exciting topics such as:\n\nThe role of remote sensing in sustainable forestry.\nPractical tutorials in GIS and R programming for ecological data analysis.\nReflections on my doctoral research and fieldwork in forestry.\n\nI’m also passionate about photography and exploring the natural world through technology. Stay tuned for upcoming posts where I’ll share stories from the field and insights into my work.\n\nThank you for joining me on this journey! Feel free to reach out, share your thoughts, or collaborate through the links above. Let’s make sustainable forest management a reality together!\nCheers,\nJakub Miszczyszyn"
   }
 ]
