@@ -1,5 +1,48 @@
 ---
 title: "Photography"
 author: "Jakub Miszczyszyn"
-
+format: html
+css: "styles.css"
 ---
+
+# Moje Fotografie
+
+## Przyroda - Zwierzęta
+<div class="photo-grid">
+  <img src="assets/photography_images/miszczyszyn_10.webp" alt="Łoś">
+  <img src="assets/photography_images/miszczyszyn_11.webp" alt="Tygrys">
+  <img src="assets/photography_images/miszczyszyn_12.webp" alt="Flaming">
+</div>
+
+## Architektura
+<div class="photo-grid">
+  <img src="assets/photography_images/miszczyszyn_9.webp" alt="Miasto Toruń nocą">
+  <img src="assets/photography_images/miszczyszyn_13.webp" alt="Zamek Wawel o zmierzchu">
+</div>
+
+## Nocne niebo i gwiazdy
+<div class="photo-grid">
+  <img src="assets/photography_images/miszczyszyn_14.webp" alt="Gwiazdy 1">
+  <img src="assets/photography_images/miszczyszyn_15.webp" alt="Gwiazdy 2">
+  <img src="assets/photography_images/miszczyszyn_16.webp" alt="Osoba z latarką i gwiazdy">
+</div>
+
+## Krajobrazy otwarte
+<div class="photo-grid">
+  <img src="assets/photography_images/miszczyszyn_7.webp" alt="Mgła z tęczą">
+  <img src="assets/photography_images/miszczyszyn_6.webp" alt="Dolina">
+  <img src="assets/photography_images/miszczyszyn_17.webp" alt="Mglisty las">
+</div>
+
+## Makrofotografia i detale
+<div class="photo-grid">
+  <img src="assets/photography_images/miszczyszyn_8.webp" alt="Makrofotografia mchu">
+</div>
+
+## Lasy zimowe
+<div class="photo-grid">
+  <img src="assets/photography_images/miszczyszyn_2.webp" alt="Zimowy las 1">
+  <img src="assets/photography_images/miszczyszyn_3.webp" alt="Zimowy las 2">
+  <img src="assets/photography_images/miszczyszyn_4.webp" alt="Zimowy las 3">
+  <img src="assets/photography_images/miszczyszyn_5.webp" alt="Zimowy las 4">
+</div>
