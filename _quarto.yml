@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Home"
+  site-url: https://miszczyszyn.org 
   navbar:
     logo: logo.png
     left: 
