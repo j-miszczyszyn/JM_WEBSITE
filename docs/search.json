@@ -60,7 +60,7 @@
     "href": "publications.html",
     "title": "Research Articles",
     "section": "",
-    "text": "In the progres…"
+    "text": "A low-cost alternative to LiDAR for site index models: applying repeated digital aerial photogrammetry data in the modelling of forest top height growth\nJaniec, Piotr; Hawryło, Paweł; Tymińska-Czabańska, Luiza; Miszczyszyn, Jakub; Socha, Jarosław\nForestry: An International Journal of Forest Research (2024)\nRead more\nSzanse i wyzwania w procesie transferu wiedzy i technologii w oparciu o mentoring instytucji otoczenia biznesu\nLelakowska, Dominika; Boroń, Filip; Kaczmarczyk, Karolina; Madej, Kinga; Miszczyszyn, Jakub\nPrzedsiębiorczość - Edukacja (2024), Volume 20, Issue 1\nRead more\nHow to adequately determine the top height of forest stands based on airborne laser scanning point clouds?\nHawryło, Paweł; Socha, Jarosław; Wężyk, Piotr; Ochał, Wojciech; Krawczyk, Wojciech; Miszczyszyn, Jakub; Tymińska-Czabańska, Luiza\nForest Ecology and Management (2024), Volume 551\n\n\n\n\n\nModelowanie 3D wybranych drzew na podstawie chmur punktów TLS LiDAR\nBajorek-Zydroń, Katarzyna; Wężyk, Piotr; Żądło, Anna; Miszczyszyn, Jakub\nDrzewa w zieleni miejskiej (2021), ProGea 4D, Zarząd Zieleni Miejskiej w Krakowie, pp. 73-78"
   },
   {
     "objectID": "posts/welcome/index.html#why-this-blog",
@@ -82,5 +82,19 @@
     "title": "Welcome to My Blog",
     "section": "What’s Next?",
     "text": "What’s Next?\nThrough this blog, I’ll dive into exciting topics such as:\n\nThe role of remote sensing in sustainable forestry.\nPractical tutorials in GIS and R programming for ecological data analysis.\nReflections on my doctoral research and fieldwork in forestry.\n\nI’m also passionate about photography and exploring the natural world through technology. Stay tuned for upcoming posts where I’ll share stories from the field and insights into my work.\n\nThank you for joining me on this journey! Feel free to reach out, share your thoughts, or collaborate through the links above. Let’s make sustainable forest management a reality together!\nCheers,\nJakub Miszczyszyn"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Research Articles",
+    "section": "",
+    "text": "A low-cost alternative to LiDAR for site index models: applying repeated digital aerial photogrammetry data in the modelling of forest top height growth\nJaniec, Piotr; Hawryło, Paweł; Tymińska-Czabańska, Luiza; Miszczyszyn, Jakub; Socha, Jarosław\nForestry: An International Journal of Forest Research (2024)\nRead more\nSzanse i wyzwania w procesie transferu wiedzy i technologii w oparciu o mentoring instytucji otoczenia biznesu\nLelakowska, Dominika; Boroń, Filip; Kaczmarczyk, Karolina; Madej, Kinga; Miszczyszyn, Jakub\nPrzedsiębiorczość - Edukacja (2024), Volume 20, Issue 1\nRead more\nHow to adequately determine the top height of forest stands based on airborne laser scanning point clouds?\nHawryło, Paweł; Socha, Jarosław; Wężyk, Piotr; Ochał, Wojciech; Krawczyk, Wojciech; Miszczyszyn, Jakub; Tymińska-Czabańska, Luiza\nForest Ecology and Management (2024), Volume 551"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Research Articles",
+    "section": "",
+    "text": "Modelowanie 3D wybranych drzew na podstawie chmur punktów TLS LiDAR\nBajorek-Zydroń, Katarzyna; Wężyk, Piotr; Żądło, Anna; Miszczyszyn, Jakub\nDrzewa w zieleni miejskiej (2021), ProGea 4D, Zarząd Zieleni Miejskiej w Krakowie, pp. 73-78"
   }
 ]
