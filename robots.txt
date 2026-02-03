@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
+
+# Blokowanie wewnętrznych zasobów Quarto
+Disallow: /site_libs/
+Disallow: /search.json
+Disallow: /listings.json
+
+# Mapa witryny
 Sitemap: https://miszczyszyn.org/sitemap.xml
