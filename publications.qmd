@@ -5,6 +5,13 @@ author: "Jakub Miszczyszyn"
 
 # Articles:
 
+## 2025
+
+1. **First application of multichannel GPR for root system variability analysis in Scots pine forests**  
+   *Tymińska-Czabańska, Luiza; Polak, Marcin; Miszczyszyn, Jakub; Dąbrowski, Michał; Socha, Jarosław*  
+   *Ecological Indicators (2025), Volume 179, 114282*  
+   DOI: [10.1016/j.ecolind.2025.114282](https://doi.org/10.1016/j.ecolind.2025.114282)
+
 ## 2024
 
 1. **A low-cost alternative to LiDAR for site index models: applying repeated digital aerial photogrammetry data in the modelling of forest top height growth**  
@@ -34,12 +41,22 @@ author: "Jakub Miszczyszyn"
 
 # Presentations:
 
-1. **Monitoring of Scots pine stands in terms of hazards from Mistletoe - based on the analysis of high-resolution UAV images**  
+1. **Dokładność i ograniczenia modelu High Resolution Canopy Height Maps (Meta & WRI): Studium przypadku Nadleśnictwa Zwierzyniec**  
+   *Natalia Rębisz, Jakub Miszczyszyn, Filip Iwaniec, Franciszek Błaś, Adam Ziółkowski*  
+   *Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, May 2025*  
+   DOI: [10.13140/RG.2.2.10410.73929](http://dx.doi.org/10.13140/RG.2.2.10410.73929)
+
+2. **Półautomatyczna metoda generowania sieci cieków w oparciu o wysokorozdzielczy Numeryczny Model Terenu**  
+   *Filip Iwaniec, Natalia Rębisz, Jakub Miszczyszyn, Paweł Hawryło*  
+   *Małopolski GISDAY 2024, November 2024*  
+   DOI: [10.13140/RG.2.2.29670.74560](http://dx.doi.org/10.13140/RG.2.2.29670.74560)
+
+3. **Monitoring of Scots pine stands in terms of hazards from Mistletoe - based on the analysis of high-resolution UAV images**  
    *Jakub Miszczyszyn, Piotr Wężyk*  
    *40th EARSeL Symposium, June 2021*  
    [ResearchGate link](https://www.researchgate.net/publication/375635320_Monitoring_of_Scots_pine_stands_in_terms_of_hazards_from_Mistletoe_-_based_on_the_analysis_of_high-resolution_UAV_images)
 
-2. **Analizy lokalizacji zalegania pokrywy śnieżnej w Bieszczadzkim Parku Narodowym w 2019 roku na podstawie niekomercyjnych zobrazowań satelitarnych Sentinel-2 oraz Landsat-8**  
+4. **Analizy lokalizacji zalegania pokrywy śnieżnej w Bieszczadzkim Parku Narodowym w 2019 roku na podstawie niekomercyjnych zobrazowań satelitarnych Sentinel-2 oraz Landsat-8**  
    *Jakub Miszczyszyn, Wojciech Krawczyk, Przemysław Mamuszka, Paweł Hawryło*  
    *Sesja Kół Naukowych Uniwersytetu Rolniczego, May 2021*  
    [ResearchGate link](https://www.researchgate.net/publication/377747936_Analizy_lokalizacji_zalegania_pokrywy_snieznej_w_Bieszczadzkim_Parku_Narodowym_w_2019_roku_na_podstawie_niekomercyjnych_zobrazowan_satelitarnych_Sentinel-2_oraz_Landsat-8)
