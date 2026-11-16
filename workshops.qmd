@@ -1,0 +1,22 @@
+---
+title: "{{< meta strony.workshops.title >}}"
+description: "{{< meta strony.workshops.description >}}"
+---
+
+::::: {.pozycje}
+
+::: {.wiersz}
+[2025/2026]{.lewa}
+
+[[Kurs ArcGIS Pro]{.content-visible when-profile="pl"}[ArcGIS Pro course]{.content-visible when-profile="en"}]{.tytul}\
+[[Sekcja Geomatyki Koła Naukowego Leśników, Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie]{.content-visible when-profile="pl"}[Geomatics Section of the Forestry Students' Scientific Association, University of Agriculture in Krakow]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2025/2026]{.lewa}
+
+[[Warsztaty w ramach Dnia Jakości Kształcenia]{.content-visible when-profile="pl"}[Workshops during the Education Quality Day (Dzień Jakości Kształcenia)]{.content-visible when-profile="en"}]{.tytul}\
+[[Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie]{.content-visible when-profile="pl"}[University of Agriculture in Krakow]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
+:::::

@@ -1,0 +1,15 @@
+<script>
+// Przełącznik języka w nawigacji: kieruje do tej samej podstrony w drugiej wersji językowej
+// (np. /publications.html <-> /en/publications.html), a nie tylko na stronę główną.
+document.addEventListener("DOMContentLoaded", function () {
+  var znacznik = document.querySelector(".przelacznik-jezyka");
+  if (!znacznik) { return; }
+  var odnosnik = znacznik.closest("a");
+  if (!odnosnik) { return; }
+  var sciezka = window.location.pathname;
+  var naAngielskiej = sciezka === "/en" || sciezka.indexOf("/en/") === 0;
+  var nowa = naAngielskiej ? (sciezka.replace(/^\/en/, "") || "/") : "/en" + sciezka;
+  odnosnik.setAttribute("href", nowa);
+  odnosnik.removeAttribute("target");
+});
+</script>

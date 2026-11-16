@@ -1,24 +1,24 @@
 [
   {
+    "objectID": "sekcja-geomatyki.html",
+    "href": "sekcja-geomatyki.html",
+    "title": "Sekcja Geomatyki",
+    "section": "",
+    "text": "Sekcja Geomatyki działa w ramach Koła Naukowego Leśników Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie. Skupia studentów zainteresowanych zastosowaniem geoinformatyki i teledetekcji w leśnictwie.\nOd 2024 roku jestem opiekunem Sekcji."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jakub Miszczyszyn",
     "section": "",
-    "text": "I am a specialist in geoinformatics, remote sensing, and spatial data analysis. As a technician, I actively support the scientific and educational activities at the University of Agriculture in Krakow, including serving as the supervisor of the Geomatics Section of the Forestry Students’ Scientific Association.\nMy experience includes: Programming in R, Operating drones, acquiring data using LiDAR technology, as well as multispectral and thermal cameras. I am passionate about photography and studying forest ecosystems, combining modern technologies with practical applications in environmental protection.\nMy mission is to promote sustainable natural resource management by implementing innovative technological solutions."
+    "text": "Geoinformatyka i teledetekcja w leśnictwie\nKatedra Zarządzania Zasobami Leśnymi, Wydział Leśny\nUniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie\nZajmuję się geoinformatyką, teledetekcją i analizą danych przestrzennych. Jako pracownik wspierający działalność naukowo-dydaktyczną uczestniczę w badaniach i zajęciach prowadzonych na Uniwersytecie Rolniczym w Krakowie, a także jestem opiekunem Sekcji Geomatyki Koła Naukowego Leśników.\nW pracy łączę programowanie w R z pozyskiwaniem danych za pomocą bezzałogowych statków powietrznych, skanowania laserowego LiDAR oraz kamer wielospektralnych i termalnych.\n\nORCID Google Scholar Scopus ResearchGate GitHub LinkedIn Profil pracownika KZZL Repozytorium URK"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publikacje",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
+    "text": "2026\nMultispectral vs. RGB UAV Imagery for Detecting Mistletoe (Viscum album) in Scots Pine Forests: Identifying the Most Informative Vegetation Indices pierwszy autor\nMiszczyszyn, Jakub; Wężyk, Piotr; Tymińska-Czabańska, Luiza; Socha, Jarosław; Szostak, Marta\nRemote Sensing (2026), 18(10), 1607 · DOI: 10.3390/rs18101607\n\n\n2026\nRoot System Architecture of Scots Pine as an Ecological Indicator of Site Productivity: First Insights from Multichannel Ground-Penetrating Radar\nBłaś, Franciszek; Ziółkowski, Adam; Miszczyszyn, Jakub; Neroj, Bożydar; Pawelec, Igor; Socha, Jarosław; Tymińska-Czabańska, Luiza\nRemote Sensing (2026), 18(11), 1694 · DOI: 10.3390/rs18111694\n\n\n2026\nSpatial scaling of drought impacts on forest mortality: when climate signals emerge from local noise\nTymińska-Czabańska, Luiza; Leszczyński; Janiec, Piotr; Miszczyszyn, Jakub; Socha, Jarosław\nAgricultural and Forest Meteorology (2026), 385, 111213 · DOI: 10.1016/j.agrformet.2026.111213\n\n\nRozwiń więcejShow moreZwińShow less\n\n2026\nA Central European tree species dataset of annotated terrestrial laser scanning point clouds – TreeScanPL10K\nStereńczak; Kulicki; Kraszewski i in.\nScientific Data (2026), 13(1), 1217 · DOI: 10.1038/s41597-026-07269-1\n\n\n2026\nMulti-Temporal Canopy Gaps Assessment Using Airborne Laser Scanning Data: The Case of the Protected Forests in the Carpathian Montane Ecosystem in Poland\nMarapao, Garry; Keren, Srdjan; Miszczyszyn, Jakub\nRemote Sensing (2026), 18(7), 1045 · DOI: 10.3390/rs18071045\n\n\n2025\nFirst application of multichannel GPR for root system variability analysis in Scots pine forests\nTymińska-Czabańska, Luiza; Polak, Marcin; Miszczyszyn, Jakub; Dąbrowski, Michał; Socha, Jarosław\nEcological Indicators (2025), 179, 114282 · DOI: 10.1016/j.ecolind.2025.114282\n\n\n2024\nA low-cost alternative to LiDAR for site index models: applying repeated digital aerial photogrammetry data in the modelling of forest top height growth\nJaniec, Piotr; Hawryło, Paweł; Tymińska-Czabańska, Luiza; Miszczyszyn, Jakub; Socha, Jarosław\nForestry: An International Journal of Forest Research (2024), cpae047 · DOI: 10.1093/forestry/cpae047\n\n\n2024\nSzanse i wyzwania w procesie transferu wiedzy i technologii w oparciu o mentoring instytucji otoczenia biznesu\nLelakowska, Dominika; Boroń, Filip; Kaczmarczyk, Karolina; Madej, Kinga; Miszczyszyn, Jakub\nPrzedsiębiorczość – Edukacja (2024), 20(1), 77–93 · DOI: 10.24917/20833296.201.5\n\n\n2024\nHow to adequately determine the top height of forest stands based on airborne laser scanning point clouds?\nHawryło, Paweł; Socha, Jarosław; Wężyk, Piotr; Ochał, Wojciech; Krawczyk, Wojciech; Miszczyszyn, Jakub; Tymińska-Czabańska, Luiza\nForest Ecology and Management (2024), 551, 121528 · DOI: 10.1016/j.foreco.2023.121528\n\n\nRozdział w monografii\n\n2021\nModelowanie 3D wybranych drzew na podstawie chmur punktów TLS LiDAR\nBajorek-Zydroń, Katarzyna; Wężyk, Piotr; Żądło, Anna; Miszczyszyn, Jakub\nW: Drzewa w zieleni miejskiej (2021), ProGea 4D, Zarząd Zieleni Miejskiej w Krakowie, s. 73–78 · ISBN: 978-83-956787-4-0 · Repozytorium URK"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,41 +26,6 @@
     "title": "Welcome to My Blog",
     "section": "",
     "text": "Welcome to my blog! My name is Jakub Miszczyszyn, and I am currently pursuing a Ph.D. in forestry, with a strong focus on using advanced geoinformatics and remote sensing tools to better understand and manage forest ecosystems. 🌲"
-  },
-  {
-    "objectID": "wykresy.html",
-    "href": "wykresy.html",
-    "title": "Wykresy",
-    "section": "",
-    "text": "Poniżej znajduje się interaktywny wykres Plotly osadzony przy użyciu iframe:"
-  },
-  {
-    "objectID": "wykresy.html#wykres-zamierania",
-    "href": "wykresy.html#wykres-zamierania",
-    "title": "Wykresy",
-    "section": "",
-    "text": "Poniżej znajduje się interaktywny wykres Plotly osadzony przy użyciu iframe:"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Welcome to My Blog\n\n\n\nIntroduction\n\nForestry\n\nResearch\n\n\n\nIntroduction to my research blog with a focus on forestry, geoinformatics, and my doctoral journey.\n\n\n\n\n\nDec 13, 2024\n\n\nJakub Miszczyszyn\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "programming.html",
-    "href": "programming.html",
-    "title": "Programming",
-    "section": "",
-    "text": "In the progres…"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Research Articles",
-    "section": "",
-    "text": "First application of multichannel GPR for root system variability analysis in Scots pine forests\nTymińska-Czabańska, Luiza; Polak, Marcin; Miszczyszyn, Jakub; Dąbrowski, Michał; Socha, Jarosław\nEcological Indicators (2025), Volume 179, 114282\nDOI: 10.1016/j.ecolind.2025.114282\n\n\n\n\n\nA low-cost alternative to LiDAR for site index models: applying repeated digital aerial photogrammetry data in the modelling of forest top height growth\nJaniec, Piotr; Hawryło, Paweł; Tymińska-Czabańska, Luiza; Miszczyszyn, Jakub; Socha, Jarosław\nForestry: An International Journal of Forest Research (2024)\nDOI: 10.1093/forestry/cpae047\nSzanse i wyzwania w procesie transferu wiedzy i technologii w oparciu o mentoring instytucji otoczenia biznesu\nLelakowska, Dominika; Boroń, Filip; Kaczmarczyk, Karolina; Madej, Kinga; Miszczyszyn, Jakub\nPrzedsiębiorczość - Edukacja (2024), Volume 20, Issue 1\nDOI: 10.24917/20833296.201.5\nHow to adequately determine the top height of forest stands based on airborne laser scanning point clouds?\nHawryło, Paweł; Socha, Jarosław; Wężyk, Piotr; Ochał, Wojciech; Krawczyk, Wojciech; Miszczyszyn, Jakub; Tymińska-Czabańska, Luiza\nForest Ecology and Management (2024), Volume 551\nDOI: 10.1016/j.foreco.2023.120043\n\n\n\n\n\nModelowanie 3D wybranych drzew na podstawie chmur punktów TLS LiDAR\nBajorek-Zydroń, Katarzyna; Wężyk, Piotr; Żądło, Anna; Miszczyszyn, Jakub\nDrzewa w zieleni miejskiej (2021), ProGea 4D, Zarząd Zieleni Miejskiej w Krakowie, pp. 73-78\nISBN: 978-83-956787-4-0\nLink do repozytorium URK"
   },
   {
     "objectID": "posts/welcome/index.html#why-this-blog",
@@ -84,24 +49,87 @@
     "text": "What’s Next?\nThrough this blog, I’ll dive into exciting topics such as:\n\nThe role of remote sensing in sustainable forestry.\nPractical tutorials in GIS and R programming for ecological data analysis.\nReflections on my doctoral research and fieldwork in forestry.\n\nI’m also passionate about photography and exploring the natural world through technology. Stay tuned for upcoming posts where I’ll share stories from the field and insights into my work.\n\nThank you for joining me on this journey! Feel free to reach out, share your thoughts, or collaborate through the links above. Let’s make sustainable forest management a reality together!\nCheers,\nJakub Miszczyszyn"
   },
   {
-    "objectID": "publications.html#section",
-    "href": "publications.html#section",
-    "title": "Research Articles",
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Zlecenia",
     "section": "",
-    "text": "First application of multichannel GPR for root system variability analysis in Scots pine forests\nTymińska-Czabańska, Luiza; Polak, Marcin; Miszczyszyn, Jakub; Dąbrowski, Michał; Socha, Jarosław\nEcological Indicators (2025), Volume 179, 114282\nDOI: 10.1016/j.ecolind.2025.114282"
+    "text": "Poza pracą naukową jestem dostępny do realizacji zleceń. Prowadzę je pod marką Miszczyszyn Geospatial."
   },
   {
-    "objectID": "publications.html#section-1",
-    "href": "publications.html#section-1",
-    "title": "Research Articles",
-    "section": "",
-    "text": "A low-cost alternative to LiDAR for site index models: applying repeated digital aerial photogrammetry data in the modelling of forest top height growth\nJaniec, Piotr; Hawryło, Paweł; Tymińska-Czabańska, Luiza; Miszczyszyn, Jakub; Socha, Jarosław\nForestry: An International Journal of Forest Research (2024)\nDOI: 10.1093/forestry/cpae047\nSzanse i wyzwania w procesie transferu wiedzy i technologii w oparciu o mentoring instytucji otoczenia biznesu\nLelakowska, Dominika; Boroń, Filip; Kaczmarczyk, Karolina; Madej, Kinga; Miszczyszyn, Jakub\nPrzedsiębiorczość - Edukacja (2024), Volume 20, Issue 1\nDOI: 10.24917/20833296.201.5\nHow to adequately determine the top height of forest stands based on airborne laser scanning point clouds?\nHawryło, Paweł; Socha, Jarosław; Wężyk, Piotr; Ochał, Wojciech; Krawczyk, Wojciech; Miszczyszyn, Jakub; Tymińska-Czabańska, Luiza\nForest Ecology and Management (2024), Volume 551\nDOI: 10.1016/j.foreco.2023.120043"
+    "objectID": "services.html#zakres",
+    "href": "services.html#zakres",
+    "title": "Zlecenia",
+    "section": "Zakres",
+    "text": "Zakres\n\n\nBezzałogowe statki powietrzne i LiDAR\nPozyskiwanie i przetwarzanie danych z bezzałogowych statków powietrznych: zobrazowania wielospektralne i termalne, chmury punktów skanowania laserowego.\n\n\nTeledetekcja\nAnaliza zobrazowań lotniczych i satelitarnych.\n\n\nGIS\nAnalizy danych przestrzennych.\n\n\nData mining\nEksploracja danych i programowanie w R.\n\n\nModelowanie\nModelowanie na podstawie danych przestrzennych i teledetekcyjnych.\n\n\nDorobek naukowy, na którym opieram się w zleceniach: publikacje i oprogramowanie."
   },
   {
-    "objectID": "publications.html#section-2",
-    "href": "publications.html#section-2",
-    "title": "Research Articles",
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Wystąpienia",
     "section": "",
-    "text": "Modelowanie 3D wybranych drzew na podstawie chmur punktów TLS LiDAR\nBajorek-Zydroń, Katarzyna; Wężyk, Piotr; Żądło, Anna; Miszczyszyn, Jakub\nDrzewa w zieleni miejskiej (2021), ProGea 4D, Zarząd Zieleni Miejskiej w Krakowie, pp. 73-78\nISBN: 978-83-956787-4-0\nLink do repozytorium URK"
+    "text": "2024\nAnalysis of the information capability of spectral indices in remote sensing of mistletoe (Viscum album ssp. austriacum L.) in pine stands, acquired using unmanned aerial platforms (BSP)\nJakub Miszczyszyn\nPoster · EnviLink, maj 2024 · ResearchGate\n\n\n2022\nAnaliza dokładności pomiaru wysokości drzew z wykorzystaniem trójwymiarowych chmur punktów generowanych na bazie zdjęć BSP\nJakub Miszczyszyn, Paweł Hawryło, Wojciech Krawczyk, Artur Golasz\nPoster · Małopolski GIS Day 2022, listopad 2022 · ResearchGate\n\n\n2022\nDetection of mistletoe (Viscum album ssp. austriacum L.) in Scots pine stands using the MS and RGB UAV high resolution orthophoto\nJakub Miszczyszyn, Piotr Wężyk\nPoster · ForestSAT 2022, wrzesień 2022 · ResearchGate\n\n\nRozwiń więcejShow moreZwińShow less\n\n2021\nMonitoring of Scots pine stands in terms of hazards from Mistletoe – based on the analysis of high-resolution UAV images\nJakub Miszczyszyn, Piotr Wężyk\nWystąpienie · 40th EARSeL Symposium, czerwiec 2021 · ResearchGate\n\n\n2021\nAnalizy lokalizacji zalegania pokrywy śnieżnej w Bieszczadzkim Parku Narodowym w 2019 roku na podstawie niekomercyjnych zobrazowań satelitarnych Sentinel-2 oraz Landsat-8\nJakub Miszczyszyn, Wojciech Krawczyk, Przemysław Mamuszka, Paweł Hawryło\nWystąpienie · Sesja Kół Naukowych Uniwersytetu Rolniczego, maj 2021 · ResearchGate\n\n\n\n\n\n\n2025\nDokładność i ograniczenia modelu High Resolution Canopy Height Maps (Meta & WRI): Studium przypadku Nadleśnictwa Zwierzyniec\nNatalia Rębisz, Jakub Miszczyszyn, Filip Iwaniec, Franciszek Błaś, Adam Ziółkowski\nWystąpienie · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, maj 2025 · DOI: 10.13140/RG.2.2.10410.73929\n\n\n2024\nPółautomatyczna metoda generowania sieci cieków w oparciu o wysokorozdzielczy Numeryczny Model Terenu\nFilip Iwaniec, Natalia Rębisz, Jakub Miszczyszyn, Paweł Hawryło\nWystąpienie · Małopolski GIS Day 2024, listopad 2024 · DOI: 10.13140/RG.2.2.29670.74560\n\n\n2023\nIPC UAV photogrammetry vs ULS LiDAR – comparison of low-cost solutions for forest stands height determination\nPiotr Wężyk, Wojciech Krawczyk, Jakub Miszczyszyn\nPoster · SilviLaser 2023, wrzesień 2023 · ResearchGate"
+  },
+  {
+    "objectID": "presentations.html#prezentowane-osobiściepresented-by-me",
+    "href": "presentations.html#prezentowane-osobiściepresented-by-me",
+    "title": "Wystąpienia",
+    "section": "",
+    "text": "2024\nAnalysis of the information capability of spectral indices in remote sensing of mistletoe (Viscum album ssp. austriacum L.) in pine stands, acquired using unmanned aerial platforms (BSP)\nJakub Miszczyszyn\nPoster · EnviLink, maj 2024 · ResearchGate\n\n\n2022\nAnaliza dokładności pomiaru wysokości drzew z wykorzystaniem trójwymiarowych chmur punktów generowanych na bazie zdjęć BSP\nJakub Miszczyszyn, Paweł Hawryło, Wojciech Krawczyk, Artur Golasz\nPoster · Małopolski GIS Day 2022, listopad 2022 · ResearchGate\n\n\n2022\nDetection of mistletoe (Viscum album ssp. austriacum L.) in Scots pine stands using the MS and RGB UAV high resolution orthophoto\nJakub Miszczyszyn, Piotr Wężyk\nPoster · ForestSAT 2022, wrzesień 2022 · ResearchGate\n\n\nRozwiń więcejShow moreZwińShow less\n\n2021\nMonitoring of Scots pine stands in terms of hazards from Mistletoe – based on the analysis of high-resolution UAV images\nJakub Miszczyszyn, Piotr Wężyk\nWystąpienie · 40th EARSeL Symposium, czerwiec 2021 · ResearchGate\n\n\n2021\nAnalizy lokalizacji zalegania pokrywy śnieżnej w Bieszczadzkim Parku Narodowym w 2019 roku na podstawie niekomercyjnych zobrazowań satelitarnych Sentinel-2 oraz Landsat-8\nJakub Miszczyszyn, Wojciech Krawczyk, Przemysław Mamuszka, Paweł Hawryło\nWystąpienie · Sesja Kół Naukowych Uniwersytetu Rolniczego, maj 2021 · ResearchGate"
+  },
+  {
+    "objectID": "presentations.html#opieka-naukowa-i-współautorstwosupervision-and-co-authorship",
+    "href": "presentations.html#opieka-naukowa-i-współautorstwosupervision-and-co-authorship",
+    "title": "Wystąpienia",
+    "section": "",
+    "text": "2025\nDokładność i ograniczenia modelu High Resolution Canopy Height Maps (Meta & WRI): Studium przypadku Nadleśnictwa Zwierzyniec\nNatalia Rębisz, Jakub Miszczyszyn, Filip Iwaniec, Franciszek Błaś, Adam Ziółkowski\nWystąpienie · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, maj 2025 · DOI: 10.13140/RG.2.2.10410.73929\n\n\n2024\nPółautomatyczna metoda generowania sieci cieków w oparciu o wysokorozdzielczy Numeryczny Model Terenu\nFilip Iwaniec, Natalia Rębisz, Jakub Miszczyszyn, Paweł Hawryło\nWystąpienie · Małopolski GIS Day 2024, listopad 2024 · DOI: 10.13140/RG.2.2.29670.74560\n\n\n2023\nIPC UAV photogrammetry vs ULS LiDAR – comparison of low-cost solutions for forest stands height determination\nPiotr Wężyk, Wojciech Krawczyk, Jakub Miszczyszyn\nPoster · SilviLaser 2023, wrzesień 2023 · ResearchGate"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to My Blog\n\n\n\nIntroduction\n\nForestry\n\nResearch\n\n\n\nIntroduction to my research blog with a focus on forestry, geoinformatics, and my doctoral journey.\n\n\n\n\n\n13 gru 2024\n\n\nJakub Miszczyszyn\n\n\n\n\n\nBrak pasujących"
+  },
+  {
+    "objectID": "programming.html",
+    "href": "programming.html",
+    "title": "Oprogramowanie",
+    "section": "",
+    "text": "Wizualizacja 3D i analiza statystyczna systemów korzeniowych drzew wykrytych georadarem (GPR) · wersja 0.1.0 · licencja GPL (≥ 3)\nPakiet przetwarza surowe pliki CSV eksportowane z oprogramowania georadarowego na przestrzenne segmenty korzeni, oblicza ich miary geometryczne (długość 3D, azymut, nachylenie, głębokość), łączy korzenie z położeniem pni drzew, wyznacza zasięg systemu korzeniowego w postaci wieloboków otoczki wypukłej, szacuje objętość bryły ograniczającej oraz analizuje nakładanie się systemów korzeniowych sąsiednich drzew.\nPakiet powstał w ramach finansowanego przez NCN projektu „Zastosowanie georadaru ze skanerem 3D do pomiarów zmienności systemów korzeniowych sosny zwyczajnej”. Współautorką jest Luiza Tymińska-Czabańska.\n# install.packages(\"pak\")\npak::pak(\"j-miszczyszyn/GRootR\")\n\n Repozytorium  Dokumentacja\nPozostałe repozytoria są dostępne w moim profilu w serwisie GitHub."
+  },
+  {
+    "objectID": "programming.html#grootr",
+    "href": "programming.html#grootr",
+    "title": "Oprogramowanie",
+    "section": "",
+    "text": "Wizualizacja 3D i analiza statystyczna systemów korzeniowych drzew wykrytych georadarem (GPR) · wersja 0.1.0 · licencja GPL (≥ 3)\nPakiet przetwarza surowe pliki CSV eksportowane z oprogramowania georadarowego na przestrzenne segmenty korzeni, oblicza ich miary geometryczne (długość 3D, azymut, nachylenie, głębokość), łączy korzenie z położeniem pni drzew, wyznacza zasięg systemu korzeniowego w postaci wieloboków otoczki wypukłej, szacuje objętość bryły ograniczającej oraz analizuje nakładanie się systemów korzeniowych sąsiednich drzew.\nPakiet powstał w ramach finansowanego przez NCN projektu „Zastosowanie georadaru ze skanerem 3D do pomiarów zmienności systemów korzeniowych sosny zwyczajnej”. Współautorką jest Luiza Tymińska-Czabańska.\n# install.packages(\"pak\")\npak::pak(\"j-miszczyszyn/GRootR\")\n\n Repozytorium  Dokumentacja"
+  },
+  {
+    "objectID": "programming.html#forestools",
+    "href": "programming.html#forestools",
+    "title": "Oprogramowanie",
+    "section": "foRestools",
+    "text": "foRestools\nNarzędzia dla leśników · wersja 1.0.3 · licencja GPL (≥ 3)\nZbiór narzędzi do analizy danych leśnych i zadań teledetekcyjnych. Pakiet obejmuje m.in.:\n\ntworzenie modelu koron drzew (CHM) z plików LAS i normalizację wysokości chmury punktów LiDAR,\nwykrywanie wierzchołków drzew na modelu koron,\nprzycinanie chmury punktów do obszaru zainteresowania (AOI) i przerzedzanie jej z zachowaniem wybranych klas,\nobliczanie wskaźników roślinności (CCI, DVI, GDVI, GSAVI, MSAVI, NDVI, TGI),\npobieranie numerycznego modelu terenu i ortofotomapy z zasobów GUGiK dla dużych obszarów,\nobliczanie nowych współrzędnych na podstawie odległości i kierunku.\n\n# install.packages(\"devtools\")\ndevtools::install_github(\"j-miszczyszyn/foRestools\")\n\n Repozytorium"
+  },
+  {
+    "objectID": "programming.html#ghawkr",
+    "href": "programming.html#ghawkr",
+    "title": "Oprogramowanie",
+    "section": "ghawkR",
+    "text": "ghawkR\nObsługa danych eksportowanych z oprogramowania gAirHawk · wersja 0.0.2 · licencja MIT\nPakiet ułatwia pracę z danymi eksportowanymi z gAirHawk: nadawanie nazw kolumnom trajektorii, przerzedzanie rekordów, łączenie danych z wielu nalotów, zamianę tabel na obiekty przestrzenne i ich podgląd na wykresie.\n# install.packages(\"devtools\")\ndevtools::install_github(\"j-miszczyszyn/ghawkR\")\n\n Repozytorium"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Biogram",
+    "section": "",
+    "text": "Jestem pracownikiem wspierającym działalność naukowo-dydaktyczną w Katedrze Zarządzania Zasobami Leśnymi Wydziału Leśnego Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, gdzie pracuję od października 2023 roku. Zajmuję się geoinformatyką, teledetekcją i analizą danych przestrzennych w leśnictwie.\nUkończyłem studia magisterskie na kierunku Leśnictwo, specjalność Geoinformatyka, na Uniwersytecie Rolniczym w Krakowie (2023), a wcześniej studia inżynierskie na kierunku Leśnictwo, specjalność Gospodarka Leśna (2022). Jestem absolwentem Technikum Leśnego w Lesku, gdzie dwukrotnie otrzymałem Stypendium Prezesa Rady Ministrów. Doświadczenie zawodowe zdobywałem w firmach ProGea SKY, ProGea 4D, ProGea Consulting i GISPRO.\nOd 2024 roku jestem opiekunem Sekcji Geomatyki Koła Naukowego Leśników. Należę do IEEE Geoscience and Remote Sensing Society (IEEE GRSS), International Society for Photogrammetry and Remote Sensing (ISPRS), Polskiego Towarzystwa Leśnego (PTL) oraz Stowarzyszenia Inżynierów i Techników Leśnictwa i Drzewnictwa (SITLiD)."
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Warsztaty",
+    "section": "",
+    "text": "2025/2026\nKurs ArcGIS Pro\nSekcja Geomatyki Koła Naukowego Leśników, Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie\n\n\n2025/2026\nWarsztaty w ramach Dnia Jakości Kształcenia\nUniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie"
   }
 ]

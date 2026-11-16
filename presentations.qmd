@@ -1,0 +1,85 @@
+---
+title: "{{< meta strony.presentations.title >}}"
+description: "{{< meta strony.presentations.description >}}"
+---
+
+::::: {.pozycje}
+
+## [Prezentowane osobiście]{.content-visible when-profile="pl"}[Presented by me]{.content-visible when-profile="en"}
+
+::: {.wiersz}
+[2024]{.lewa}
+
+[Analysis of the information capability of spectral indices in remote sensing of mistletoe (*Viscum album* ssp. *austriacum* L.) in pine stands, acquired using unmanned aerial platforms (BSP)]{.tytul}\
+[Jakub Miszczyszyn]{.ja}\
+[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · EnviLink, [maj 2024]{.content-visible when-profile="pl"}[May 2024]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/380604731_Analysis_of_the_information_capability_of_spectral_indices_in_remote_sensing_of_mistletoe_Viscum_album_ssp_austriacum_L_in_pine_stands_acquired_using_unmanned_aerial_platforms_BSP)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2022]{.lewa}
+
+[Analiza dokładności pomiaru wysokości drzew z wykorzystaniem trójwymiarowych chmur punktów generowanych na bazie zdjęć BSP]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Paweł Hawryło, Wojciech Krawczyk, Artur Golasz\
+[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · Małopolski GIS Day 2022, [listopad 2022]{.content-visible when-profile="pl"}[November 2022]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375624480_Analiza_dokladnosci_pomiaru_wysokosci_drzew_z_wykorzystaniem_trojwymiarowych_chmur_punktow_generowanych_na_bazie_zdjec_BSP)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2022]{.lewa}
+
+[Detection of mistletoe (*Viscum album* ssp. *austriacum* L.) in Scots pine stands using the MS and RGB UAV high resolution orthophoto]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Piotr Wężyk\
+[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · ForestSAT 2022, [wrzesień 2022]{.content-visible when-profile="pl"}[September 2022]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375592451_Detection_of_mistletoe_Viscum_album_ssp_austriacum_L_in_Scots_pine_stands_using_the_MS_and_RGB_UAV_high_resolution_orthophoto)]{.zrodlo}
+:::
+
+```{=html}
+<details class="wiecej-pozycji">
+<summary><span class="zamkniete" lang="pl">Rozwiń więcej</span><span class="zamkniete" lang="en">Show more</span><span class="otwarte" lang="pl">Zwiń</span><span class="otwarte" lang="en">Show less</span></summary>
+```
+
+::: {.wiersz}
+[2021]{.lewa}
+
+[Monitoring of Scots pine stands in terms of hazards from Mistletoe – based on the analysis of high-resolution UAV images]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Piotr Wężyk\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · 40th EARSeL Symposium, [czerwiec 2021]{.content-visible when-profile="pl"}[June 2021]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375635320_Monitoring_of_Scots_pine_stands_in_terms_of_hazards_from_Mistletoe_-_based_on_the_analysis_of_high-resolution_UAV_images)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2021]{.lewa}
+
+[Analizy lokalizacji zalegania pokrywy śnieżnej w Bieszczadzkim Parku Narodowym w 2019 roku na podstawie niekomercyjnych zobrazowań satelitarnych Sentinel-2 oraz Landsat-8]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Wojciech Krawczyk, Przemysław Mamuszka, Paweł Hawryło\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego, [maj 2021]{.content-visible when-profile="pl"}[May 2021]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/377747936_Analizy_lokalizacji_zalegania_pokrywy_snieznej_w_Bieszczadzkim_Parku_Narodowym_w_2019_roku_na_podstawie_niekomercyjnych_zobrazowan_satelitarnych_Sentinel-2_oraz_Landsat-8)]{.zrodlo}
+:::
+
+```{=html}
+</details>
+```
+
+## [Opieka naukowa i współautorstwo]{.content-visible when-profile="pl"}[Supervision and co-authorship]{.content-visible when-profile="en"}
+
+::: {.wiersz}
+[2025]{.lewa}
+
+[Dokładność i ograniczenia modelu High Resolution Canopy Height Maps (Meta & WRI): Studium przypadku Nadleśnictwa Zwierzyniec]{.tytul}\
+Natalia Rębisz, [Jakub Miszczyszyn]{.ja}, Filip Iwaniec, Franciszek Błaś, Adam Ziółkowski\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, [maj 2025]{.content-visible when-profile="pl"}[May 2025]{.content-visible when-profile="en"} · DOI: [10.13140/RG.2.2.10410.73929](https://doi.org/10.13140/RG.2.2.10410.73929)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2024]{.lewa}
+
+[Półautomatyczna metoda generowania sieci cieków w oparciu o wysokorozdzielczy Numeryczny Model Terenu]{.tytul}\
+Filip Iwaniec, Natalia Rębisz, [Jakub Miszczyszyn]{.ja}, Paweł Hawryło\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Małopolski GIS Day 2024, [listopad 2024]{.content-visible when-profile="pl"}[November 2024]{.content-visible when-profile="en"} · DOI: [10.13140/RG.2.2.29670.74560](https://doi.org/10.13140/RG.2.2.29670.74560)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2023]{.lewa}
+
+[IPC UAV photogrammetry vs ULS LiDAR – comparison of low-cost solutions for forest stands height determination]{.tytul}\
+Piotr Wężyk, Wojciech Krawczyk, [Jakub Miszczyszyn]{.ja}\
+[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · SilviLaser 2023, [wrzesień 2023]{.content-visible when-profile="pl"}[September 2023]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375962883_IPC_UAV_photogrammetry_vs_ULS_LiDAR_-_comparison_of_low-cost_solutions_for_forest_stands_height_determination)]{.zrodlo}
+:::
+
+:::::

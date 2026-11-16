@@ -1,0 +1,23 @@
+---
+title: "{{< meta strony.about.title >}}"
+description: "{{< meta strony.about.description >}}"
+image: assets/images/jm.webp
+---
+
+::::: {.biogram}
+::: {.content-visible when-profile="pl"}
+Jestem pracownikiem wspierającym działalność naukowo-dydaktyczną w Katedrze Zarządzania Zasobami Leśnymi Wydziału Leśnego Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, gdzie pracuję od października 2023 roku. Zajmuję się geoinformatyką, teledetekcją i analizą danych przestrzennych w leśnictwie.
+
+Ukończyłem studia magisterskie na kierunku Leśnictwo, specjalność Geoinformatyka, na Uniwersytecie Rolniczym w Krakowie (2023), a wcześniej studia inżynierskie na kierunku Leśnictwo, specjalność Gospodarka Leśna (2022). Jestem absolwentem Technikum Leśnego w Lesku, gdzie dwukrotnie otrzymałem Stypendium Prezesa Rady Ministrów. Doświadczenie zawodowe zdobywałem w firmach ProGea SKY, ProGea 4D, ProGea Consulting i GISPRO.
+
+Od 2024 roku jestem opiekunem [Sekcji Geomatyki](sekcja-geomatyki.qmd) Koła Naukowego Leśników. Należę do IEEE Geoscience and Remote Sensing Society (IEEE GRSS), International Society for Photogrammetry and Remote Sensing (ISPRS), Polskiego Towarzystwa Leśnego (PTL) oraz Stowarzyszenia Inżynierów i Techników Leśnictwa i Drzewnictwa (SITLiD).
+:::
+
+::: {.content-visible when-profile="en"}
+I support the scientific and educational activities of the Department of Forest Resources Management at the Faculty of Forestry, University of Agriculture in Krakow, where I have worked since October 2023. I work in geoinformatics, remote sensing and spatial data analysis in forestry.
+
+I hold a master's degree in Forestry with a specialization in Geoinformatics from the University of Agriculture in Krakow (2023), preceded by engineering studies in Forestry with a specialization in Forest Management (2022). I graduated from the Forestry Technical School in Lesko (Technikum Leśne w Lesku), where I was twice awarded the Prime Minister's Scholarship. I gained professional experience at ProGea SKY, ProGea 4D, ProGea Consulting and GISPRO.
+
+Since 2024 I have supervised the [Geomatics Section](sekcja-geomatyki.qmd) of the Forestry Students' Scientific Association. I am a member of the IEEE Geoscience and Remote Sensing Society (IEEE GRSS), the International Society for Photogrammetry and Remote Sensing (ISPRS), the Polish Forest Society (PTL) and the Association of Forestry and Wood Technology Engineers and Technicians (SITLiD).
+:::
+:::::

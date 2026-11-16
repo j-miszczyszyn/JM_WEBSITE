@@ -1,0 +1,78 @@
+project:
+  output-dir: docs/en
+
+lang: en
+
+website:
+  title: "Jakub Miszczyszyn"
+  description: "Jakub Miszczyszyn – geoinformatics, remote sensing and spatial data analysis in forestry. Department of Forest Resources Management, Faculty of Forestry, University of Agriculture in Krakow."
+  site-url: https://miszczyszyn.org/en
+  open-graph:
+    locale: en_GB
+    site-name: "Jakub Miszczyszyn"
+  navbar:
+    title: "Jakub **Miszczyszyn**"
+    collapse-below: xl
+    left:
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Talks"
+        href: presentations.qmd
+      - text: "Workshops"
+        href: workshops.qmd
+      - text: "Software"
+        href: programming.qmd
+      - text: "Geomatics Section"
+        href: sekcja-geomatyki.qmd
+      - text: "Bio"
+        href: about.qmd
+      - text: "Blog"
+        href: posts.qmd
+    right:
+      - text: "<span class='przycisk-zlecenia'>Services</span>"
+        href: services.qmd
+      - text: "<span class='przelacznik-jezyka' lang='pl'>PL</span>"
+        href: https://miszczyszyn.org/
+        aria-label: "Wersja polska"
+        target: _self
+      - icon: github
+        href: https://github.com/j-miszczyszyn
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jakub-miszczyszyn-bab31b1b8/
+        aria-label: LinkedIn
+      - text: "<img src='/assets/icons/orcid.svg' alt='ORCID' style='height: 20px; vertical-align: middle; margin-bottom: 4px;'>"
+        href: https://orcid.org/0009-0002-8592-946X
+  page-footer:
+    left: "© 2026 Jakub Miszczyszyn"
+    center: "Department of Forest Resources Management · Faculty of Forestry · University of Agriculture in Krakow"
+    right: "Built with [Quarto](https://quarto.org)"
+
+# Page titles and descriptions in English (used in the headers of the .qmd files)
+strony:
+  index:
+    pagetitle: "Geoinformatics and remote sensing in forestry"
+    description: "Geoinformatics, remote sensing and spatial data analysis in forestry. Department of Forest Resources Management, Faculty of Forestry, University of Agriculture in Krakow."
+  publications:
+    title: "Publications"
+    description: "Journal articles and a book chapter."
+  presentations:
+    title: "Talks"
+    description: "Conference presentations and posters."
+  workshops:
+    title: "Workshops"
+    description: "Workshops and courses I have led."
+  programming:
+    title: "Software"
+    description: "R packages for forest and remote sensing data that I develop and share on GitHub."
+  sekcja:
+    title: "Geomatics Section"
+    description: "The Geomatics Section of the Forestry Students' Scientific Association at the University of Agriculture in Krakow."
+  about:
+    title: "Bio"
+    description: "Work, education and memberships in scientific societies."
+  services:
+    title: "Services"
+    description: "Miszczyszyn Geospatial – commissioned work in UAV, LiDAR, remote sensing, GIS, data mining and modelling."
+  posts:
+    title: "Blog"

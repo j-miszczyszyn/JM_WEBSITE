@@ -1,0 +1,200 @@
+/*-- scss:defaults --*/
+
+// Motyw strony miszczyszyn.org zgodny z księgą znaku (wersja 2.0):
+// jasne tło, atramentowy tekst, trzy kolory akcentu (niebieski, koralowy, żółty).
+// Kroje pisma są przechowywane lokalnie w assets/fonts (licencja SIL OFL).
+
+$atrament:  #15171a;
+$szary:     #5d6470;
+$linia:     #e2e4e8;
+$tlo-jasne: #f4f5f7;
+$niebieski: #2f6bff;
+$niebieski-tekst: #1d4fd8;   // ciemniejszy odcień do odnośników w tekście (kontrast na białym tle)
+$koralowy:  #ff5a4f;
+$zolty:     #ffc93c;
+
+$body-bg:        #ffffff;
+$body-color:     $atrament;
+$primary:        $niebieski;
+$secondary:      $szary;
+$link-color:     $niebieski-tekst;
+$link-hover-color: $atrament;
+
+$font-family-sans-serif: "Source Sans 3 Variable", "Source Sans 3", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace:  "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+$headings-font-family:   "Space Grotesk", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+$headings-font-weight:   700;
+$headings-color:         $atrament;
+$font-size-root:         17px;
+$line-height-base:       1.65;
+
+$navbar-bg:        #ffffff;
+$navbar-fg:        $atrament;
+$navbar-hl:        $niebieski-tekst;
+$footer-bg:        $atrament;
+$footer-fg:        #d5d8de;
+
+$border-radius:    0.5rem;
+
+// Bez pobierania krojów z serwerów zewnętrznych (motyw cosmo domyślnie ładuje Google Fonts).
+$web-font-path: false;
+
+/*-- scss:rules --*/
+
+$zakres-latin-ext: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+$zakres-latin: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+
+@font-face { font-family: "Source Sans 3 Variable"; font-style: normal; font-display: swap; font-weight: 200 900; src: url("/assets/fonts/source-sans-3-latin-ext-wght-normal.woff2") format("woff2-variations"); unicode-range: $zakres-latin-ext; }
+@font-face { font-family: "Source Sans 3 Variable"; font-style: normal; font-display: swap; font-weight: 200 900; src: url("/assets/fonts/source-sans-3-latin-wght-normal.woff2") format("woff2-variations"); unicode-range: $zakres-latin; }
+@font-face { font-family: "Space Grotesk"; font-style: normal; font-display: swap; font-weight: 400; src: url("/assets/fonts/space-grotesk-latin-ext-400-normal.woff2") format("woff2"); unicode-range: $zakres-latin-ext; }
+@font-face { font-family: "Space Grotesk"; font-style: normal; font-display: swap; font-weight: 400; src: url("/assets/fonts/space-grotesk-latin-400-normal.woff2") format("woff2"); unicode-range: $zakres-latin; }
+@font-face { font-family: "Space Grotesk"; font-style: normal; font-display: swap; font-weight: 700; src: url("/assets/fonts/space-grotesk-latin-ext-700-normal.woff2") format("woff2"); unicode-range: $zakres-latin-ext; }
+@font-face { font-family: "Space Grotesk"; font-style: normal; font-display: swap; font-weight: 700; src: url("/assets/fonts/space-grotesk-latin-700-normal.woff2") format("woff2"); unicode-range: $zakres-latin; }
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-display: swap; font-weight: 500; src: url("/assets/fonts/jetbrains-mono-latin-ext-500-normal.woff2") format("woff2"); unicode-range: $zakres-latin-ext; }
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-display: swap; font-weight: 500; src: url("/assets/fonts/jetbrains-mono-latin-500-normal.woff2") format("woff2"); unicode-range: $zakres-latin; }
+
+
+/* ============ Nawigacja i stopka ============ */
+
+.navbar { border-bottom: 1px solid $linia; padding-top: 0.9rem; padding-bottom: 0.9rem; }
+.navbar-brand .navbar-title { font-family: $headings-font-family; font-weight: 400; font-size: 1.2rem; letter-spacing: -0.02em; color: $atrament; }
+.navbar-brand, .navbar-brand-container { max-width: none !important; flex-shrink: 0; }
+.navbar-brand .navbar-title { overflow: visible; text-overflow: clip; white-space: nowrap; }
+.navbar-brand .navbar-title strong { font-weight: 700; }
+.navbar .nav-link { white-space: nowrap; font-size: 0.95rem; border-bottom: 2px solid transparent; padding-bottom: 0.15rem; }
+.navbar .nav-link.active, .navbar .nav-link:hover { border-bottom-color: $atrament; color: $atrament; }
+.przelacznik-jezyka { font-family: $font-family-monospace; font-size: 0.8rem; }
+.navbar .nav-link:has(.przycisk-zlecenia) { border: 1px solid $atrament; border-radius: 999px; padding: 0.22rem 0.95rem !important; margin-right: 0.6rem; }
+.navbar .nav-link:has(.przycisk-zlecenia):hover, .navbar .nav-link.active:has(.przycisk-zlecenia) { background: $atrament; color: #ffffff; }
+
+.nav-footer {
+  border-top: 5px solid;
+  border-image: linear-gradient(90deg, $niebieski 0 33.33%, $koralowy 33.33% 66.66%, $zolty 66.66% 100%) 1;
+  font-size: 0.88rem; padding: 1.4rem 1rem;
+}
+.nav-footer a { color: #ffffff; text-decoration: underline; }
+
+/* ============ Typografia ============ */
+
+h1, .h1 { font-size: 2.9rem; letter-spacing: -0.035em; line-height: 1.05; }
+h2, .h2 { font-size: 1.5rem; letter-spacing: -0.02em; margin-top: 3.4rem; padding-top: 1rem; border-top: 2px solid $atrament; border-bottom: 0; }
+h3, .h3 { font-size: 1.12rem; letter-spacing: -0.01em; margin-top: 2rem; }
+h4, .h4 { font-size: 1rem; }
+main.content { padding-bottom: 4rem; }
+main a { text-decoration-thickness: 1px; text-underline-offset: 3px; }
+#title-block-header { margin-top: 2.2rem; margin-bottom: 0.6rem; }
+#title-block-header .description, #title-block-header .subtitle { color: $szary; font-size: 1.15rem; max-width: 40rem; }
+.wiecej { font-weight: 600; }
+.ja { font-weight: 700; }
+.tytul { font-weight: 600; }
+.zrodlo { color: $szary; font-size: 0.95rem; }
+.znacznik { font-size: 0.78rem; font-weight: 400; color: $atrament; border: 1px solid $atrament; border-radius: 999px; padding: 0.02rem 0.55rem; margin-left: 0.35rem; white-space: nowrap; vertical-align: 0.08em; }
+.rok, .kod, .kod a { font-family: $font-family-monospace; font-weight: 500; }
+
+/* ============ Strona główna ============ */
+
+.strona-glowna { max-width: 1040px; margin: 0 auto; padding: 0 0.5rem; }
+
+.wizytowka { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 4.5rem; align-items: start; margin: 1.4rem 0 3rem; }
+main:has(.strona-glowna) #title-block-header { max-width: 1040px; margin: clamp(2.5rem, 9vh, 6rem) auto 0; padding: 0 0.5rem; }
+main:has(.strona-glowna) #title-block-header h1 { font-size: clamp(2.3rem, 4.6vw, 3.4rem); line-height: 1.05; letter-spacing: -0.035em; margin: 0; }
+#title-block-header h1 .imie { font-weight: 400; }
+#title-block-header h1 .nazwisko { font-weight: 700; }
+.wizytowka .rola { display: block; font-family: $headings-font-family; font-size: 1.25rem; color: $szary; letter-spacing: -0.01em; margin-bottom: 0.4rem; }
+.wizytowka .afiliacja { display: block; color: $atrament; margin: 1.8rem 0 1.2rem; line-height: 1.5; }
+.wizytowka .opis p { max-width: 36rem; }
+.wizytowka .zdjecie { padding: 14px 16px; }
+.wizytowka .zdjecie img { width: 100%; height: auto; display: block; border-radius: 4px; box-shadow: -10px -9px 0 $niebieski, 10px 9px 0 $zolty; }
+
+.odnosniki { margin-top: 2rem; padding-top: 1.1rem; border-top: 1px solid $linia; }
+.odnosniki p { display: flex; flex-wrap: wrap; gap: 0.35rem 1.4rem; margin: 0; }
+.odnosniki a { color: $szary; font-weight: 400; font-size: 0.95rem; }
+.odnosniki a:hover { color: $niebieski-tekst; }
+.odnosniki img, .odnosniki i { display: none; }
+
+/* sekcje strony głównej: tytuł w lewej kolumnie, treść w prawej */
+.strona-glowna section.level2 { display: grid; grid-template-columns: 14rem minmax(0, 1fr); column-gap: 2.5rem; border-top: 2px solid $atrament; margin-top: 4.5rem; padding-top: 1.2rem; }
+.strona-glowna section.level2 > h2 { grid-column: 1; grid-row: 1 / span 40; border: 0; margin: 0; padding: 0; font-size: 1.5rem; }
+.strona-glowna section.level2 > :not(h2) { grid-column: 2; }
+
+/* ============ Wiersze: lewa kolumna (rok, nazwa) i treść ============ */
+
+.wiersz { display: grid; grid-template-columns: 7.5rem minmax(0, 1fr); column-gap: 1.5rem; padding: 0 0 1.4rem; margin-bottom: 1.4rem; border-bottom: 1px solid $linia; }
+.wiersz > p { margin: 0; }
+.wiersz > p:first-child { color: $szary; font-family: $font-family-monospace; font-weight: 500; font-size: 0.92rem; padding-top: 0.12rem; }
+.wiersz .kod a { color: $atrament; font-size: 1rem; }
+
+/* dawne kafle: lista wierszy „hasło – opis”, bez ramek */
+.kafle { margin: 1.4rem 0 2rem; border-top: 1px solid $linia; }
+.kafel { display: grid; grid-template-columns: 15rem minmax(0, 1fr); column-gap: 2rem; padding: 1rem 0; border-bottom: 1px solid $linia; }
+.kafel h3, .kafel h4 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
+.kafel p { margin: 0; }
+
+/* ============ Publikacje i wystąpienia ============ */
+
+.pozycje { margin-top: 2.2rem; }
+.pozycje .wiersz { grid-template-columns: 6.5rem minmax(0, 1fr); }
+.pozycje h2:first-child, .pozycje section:first-child > h2 { margin-top: 1rem; }
+.pozycje h3 { font-family: $font-family-sans-serif; font-weight: 400; font-size: 0.95rem; color: $szary; margin: 2.2rem 0 1.2rem; }
+
+details.wiecej-pozycji { display: flex; flex-direction: column; margin-bottom: 3.6rem; }
+details.wiecej-pozycji > summary { order: 99; list-style: none; cursor: pointer; align-self: flex-start; border: 1px solid $atrament; border-radius: 999px; padding: 0.3rem 1.2rem; font-size: 0.97rem; margin: 0.4rem 0 0; }
+details.wiecej-pozycji > summary::-webkit-details-marker { display: none; }
+details.wiecej-pozycji > summary:hover { background: $atrament; color: #ffffff; }
+details.wiecej-pozycji > summary:focus-visible { outline: 2px solid $niebieski; outline-offset: 3px; }
+details.wiecej-pozycji:not([open]) .otwarte, details.wiecej-pozycji[open] .zamkniete { display: none; }
+html[lang="pl"] details.wiecej-pozycji summary [lang="en"], html[lang="en"] details.wiecej-pozycji summary [lang="pl"] { display: none; }
+
+/* ============ Oprogramowanie ============ */
+
+.pakiet { border-top: 2px solid $atrament; padding: 1.1rem 0 0.6rem; margin: 3rem 0 0; }
+.pakiet h2 { margin: 0 0 0.3rem; border: 0; padding: 0; font-size: 1.7rem; font-family: $font-family-monospace; font-weight: 500; letter-spacing: -0.02em; }
+.pakiet .podtytul { color: $szary; margin-bottom: 1rem; display: block; }
+div.sourceCode { background: $tlo-jasne; border: 0; border-radius: 4px; }
+code { font-family: $font-family-monospace; }
+
+/* ============ Biogram i krótkie strony tekstowe ============ */
+
+.biogram { max-width: 40rem; margin-top: 2rem; font-size: 1.06rem; }
+.biogram p { margin-bottom: 1.2rem; }
+
+/* ============ Sekcja Geomatyki ============ */
+
+.sekcja-naglowek { margin: 1.6rem 0 1.4rem; }
+.sekcja-naglowek img { width: min(440px, 100%); height: auto; }
+
+/* ============ Zlecenia: Miszczyszyn Geospatial ============ */
+
+.marka-naglowek { background: $atrament; border-radius: 4px; padding: 3.2rem 2.5rem; margin: 1.6rem 0 2.2rem; }
+.marka-naglowek img { width: min(520px, 100%); height: auto; }
+.marka-naglowek p { margin: 0; }
+
+.pas-zlecenia { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 3rem; align-items: center; background: $atrament; color: #ffffff; border-radius: 4px; padding: 2.6rem 2.8rem; margin: 0; }
+.pas-zlecenia img { width: min(420px, 100%); height: auto; }
+.pas-zlecenia p { margin: 0; font-size: 1.15rem; }
+.pas-zlecenia a { color: #ffffff; font-weight: 600; display: block; margin-top: 0.5rem; }
+
+/* ============ Blog ============ */
+
+.quarto-title-banner { background: $atrament; }
+.quarto-title-banner .title, .quarto-title-banner .subtitle { color: #ffffff; }
+.quarto-listing .listing-category, .quarto-category { font-family: $font-family-monospace; font-size: 0.75rem; border-color: $linia; color: $szary; }
+
+/* ============ Wąskie ekrany ============ */
+
+@media (max-width: 860px) {
+  .wizytowka { grid-template-columns: 1fr; gap: 2rem; margin-top: 2rem; }
+  .wizytowka .zdjecie { order: -1; max-width: 300px; }
+  .wizytowka .zdjecie img { box-shadow: -9px -8px 0 $niebieski, 9px 8px 0 $zolty; }
+  .strona-glowna section.level2 { grid-template-columns: 1fr; margin-top: 3rem; }
+  .strona-glowna section.level2 > h2 { grid-row: auto; margin-bottom: 1.2rem; }
+  .strona-glowna section.level2 > :not(h2) { grid-column: 1; }
+  .wiersz { grid-template-columns: 1fr; }
+  .wiersz > p:first-child { margin-bottom: 0.3rem; }
+  .kafel { grid-template-columns: 1fr; row-gap: 0.3rem; }
+  .pas-zlecenia { grid-template-columns: 1fr; gap: 1.5rem; padding: 2rem 1.5rem; }
+}
+
+@media (max-width: 1199.98px) {
+  .navbar .nav-link:has(.przycisk-zlecenia) { display: inline-block; margin: 0.4rem 0; }
+}

@@ -1,0 +1,88 @@
+---
+title: "{{< meta strony.services.title >}}"
+description: "{{< meta strony.services.description >}}"
+---
+
+::: {.marka-naglowek}
+![](assets/miszczyszyn_geospatial/Miszczyszyn_Geospatial_logo_pelne_odwrocone.svg){alt="Miszczyszyn Geospatial" .nolightbox}
+:::
+
+:::::: {.content-visible when-profile="pl"}
+Poza pracą naukową jestem dostępny do realizacji zleceń. Prowadzę je pod marką **Miszczyszyn Geospatial**.
+
+## Zakres
+
+::::: {.kafle}
+::: {.kafel}
+### Bezzałogowe statki powietrzne i LiDAR
+
+Pozyskiwanie i przetwarzanie danych z bezzałogowych statków powietrznych: zobrazowania wielospektralne i termalne, chmury punktów skanowania laserowego.
+:::
+
+::: {.kafel}
+### Teledetekcja
+
+Analiza zobrazowań lotniczych i satelitarnych.
+:::
+
+::: {.kafel}
+### GIS
+
+Analizy danych przestrzennych.
+:::
+
+::: {.kafel}
+### Data mining
+
+Eksploracja danych i programowanie w R.
+:::
+
+::: {.kafel}
+### Modelowanie
+
+Modelowanie na podstawie danych przestrzennych i teledetekcyjnych.
+:::
+:::::
+
+Dorobek naukowy, na którym opieram się w zleceniach: [publikacje](publications.qmd) i [oprogramowanie](programming.qmd).
+::::::
+
+:::::: {.content-visible when-profile="en"}
+Alongside my research, I am available for commissioned work, carried out under the **Miszczyszyn Geospatial** brand.
+
+## Scope
+
+::::: {.kafle}
+::: {.kafel}
+### UAV and LiDAR
+
+Acquisition and processing of UAV data: multispectral and thermal imagery, laser scanning point clouds.
+:::
+
+::: {.kafel}
+### Remote sensing
+
+Analysis of aerial and satellite imagery.
+:::
+
+::: {.kafel}
+### GIS
+
+Spatial data analysis.
+:::
+
+::: {.kafel}
+### Data mining
+
+Data mining and programming in R.
+:::
+
+::: {.kafel}
+### Modelling
+
+Modelling based on spatial and remote sensing data.
+:::
+:::::
+
+The research record behind this work: [publications](publications.qmd) and [software](programming.qmd).
+::::::

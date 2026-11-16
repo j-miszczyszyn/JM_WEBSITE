@@ -1,0 +1,82 @@
+project:
+  output-dir: docs
+  resources:
+    - CNAME
+    - robots.txt
+    - assets/fonts/*
+
+lang: pl
+
+website:
+  title: "Jakub Miszczyszyn"
+  description: "Jakub Miszczyszyn – geoinformatyka, teledetekcja i analiza danych przestrzennych w leśnictwie. Katedra Zarządzania Zasobami Leśnymi, Wydział Leśny, Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie."
+  site-url: https://miszczyszyn.org
+  open-graph:
+    locale: pl_PL
+    site-name: "Jakub Miszczyszyn"
+  navbar:
+    title: "Jakub **Miszczyszyn**"
+    collapse-below: xl
+    left:
+      - text: "Publikacje"
+        href: publications.qmd
+      - text: "Wystąpienia"
+        href: presentations.qmd
+      - text: "Warsztaty"
+        href: workshops.qmd
+      - text: "Oprogramowanie"
+        href: programming.qmd
+      - text: "Sekcja Geomatyki"
+        href: sekcja-geomatyki.qmd
+      - text: "Biogram"
+        href: about.qmd
+      - text: "Blog"
+        href: posts.qmd
+    right:
+      - text: "<span class='przycisk-zlecenia'>Zlecenia</span>"
+        href: services.qmd
+      - text: "<span class='przelacznik-jezyka' lang='en'>EN</span>"
+        href: https://miszczyszyn.org/en/
+        aria-label: "English version"
+        target: _self
+      - icon: github
+        href: https://github.com/j-miszczyszyn
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jakub-miszczyszyn-bab31b1b8/
+        aria-label: LinkedIn
+      - text: "<img src='/assets/icons/orcid.svg' alt='ORCID' style='height: 20px; vertical-align: middle; margin-bottom: 4px;'>"
+        href: https://orcid.org/0009-0002-8592-946X
+  page-footer:
+    left: "© 2026 Jakub Miszczyszyn"
+    center: "Katedra Zarządzania Zasobami Leśnymi · Wydział Leśny · Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie"
+    right: "Strona zbudowana w [Quarto](https://quarto.org)"
+
+# Tytuły i opisy podstron w języku polskim (używane w nagłówkach plików .qmd)
+strony:
+  index:
+    pagetitle: "Geoinformatyka i teledetekcja w leśnictwie"
+    description: "Geoinformatyka, teledetekcja i analiza danych przestrzennych w leśnictwie. Katedra Zarządzania Zasobami Leśnymi, Wydział Leśny, Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie."
+  publications:
+    title: "Publikacje"
+    description: "Artykuły naukowe i rozdział w monografii."
+  presentations:
+    title: "Wystąpienia"
+    description: "Wystąpienia konferencyjne i postery."
+  workshops:
+    title: "Warsztaty"
+    description: "Warsztaty i kursy, które prowadziłem."
+  programming:
+    title: "Oprogramowanie"
+    description: "Pakiety języka R do pracy z danymi leśnymi i teledetekcyjnymi, które rozwijam i udostępniam w serwisie GitHub."
+  sekcja:
+    title: "Sekcja Geomatyki"
+    description: "Sekcja Geomatyki Koła Naukowego Leśników Uniwersytetu Rolniczego w Krakowie."
+  about:
+    title: "Biogram"
+    description: "Praca, wykształcenie i członkostwo w towarzystwach naukowych."
+  services:
+    title: "Zlecenia"
+    description: "Miszczyszyn Geospatial – zlecenia z zakresu bezzałogowych statków powietrznych, LiDAR, teledetekcji, GIS, data miningu i modelowania."
+  posts:
+    title: "Blog"

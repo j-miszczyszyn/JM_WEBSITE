@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Jakub Miszczyszyn">
+<meta name="description" content="Pakiety języka R do pracy z danymi leśnymi i teledetekcyjnymi, które rozwijam i udostępniam w serwisie GitHub.">
 
-<title>Programming – Home</title>
+<title>Oprogramowanie – Jakub Miszczyszyn</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,6 +21,42 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -31,6 +67,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./assets/icons/favicon_jm.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -38,10 +75,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-844333d34be95f60a4f76af0faefefa2.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5640081cab48350b6c3027294aa1c7c0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -56,80 +93,106 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Brak wyników",
+    "search-matching-documents-text": "dopasowane dokumenty",
+    "search-copy-link-title": "Kopiuj link do wyszukiwania",
+    "search-hide-matches-text": "Ukryj dodatkowe dopasowania",
+    "search-more-match-text": "więcej dopasowań w tym dokumencie",
+    "search-more-matches-text": "więcej dopasowań w tym dokumencie",
+    "search-clear-button-title": "Wyczyść",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Anuluj",
+    "search-submit-button-title": "Zatwierdź",
+    "search-label": "Szukaj"
   }
 }</script>
+<link rel="canonical" href="https://miszczyszyn.org/programming.html">
+<link rel="alternate" hreflang="pl" href="https://miszczyszyn.org/programming.html">
+<link rel="alternate" hreflang="en" href="https://miszczyszyn.org/en/programming.html">
+<link rel="alternate" hreflang="x-default" href="https://miszczyszyn.org/programming.html">
 
 
-<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Oprogramowanie – Jakub Miszczyszyn">
+<meta property="og:description" content="Pakiety języka R do pracy z danymi leśnymi i teledetekcyjnymi, które rozwijam i udostępniam w serwisie GitHub.">
+<meta property="og:image" content="https://miszczyszyn.org/assets/images/jm.webp">
+<meta property="og:site_name" content="Jakub Miszczyszyn">
+<meta property="og:locale" content="pl_PL">
+<meta name="twitter:title" content="Oprogramowanie – Jakub Miszczyszyn">
+<meta name="twitter:description" content="Pakiety języka R do pracy z danymi leśnymi i teledetekcyjnymi, które rozwijam i udostępniam w serwisie GitHub.">
+<meta name="twitter:image" content="https://miszczyszyn.org/assets/images/jm.webp">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-xl " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./logo.png" alt="" class="navbar-logo light-content">
-    <img src="./logo.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Home</span>
+    <span class="navbar-title">Jakub <strong>Miszczyszyn</strong></span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Szukaj"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Przełącz nawigację" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
-<span class="menu-text">Blog</span></a>
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publikacje</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Research Articles</span></a>
+    <a class="nav-link" href="./presentations.html"> 
+<span class="menu-text">Wystąpienia</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./workshops.html"> 
+<span class="menu-text">Warsztaty</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./programming.html" aria-current="page"> 
-<span class="menu-text">Programming</span></a>
+<span class="menu-text">Oprogramowanie</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./photography.html"> 
-<span class="menu-text">Photography</span></a>
+    <a class="nav-link" href="./sekcja-geomatyki.html"> 
+<span class="menu-text">Sekcja Geomatyki</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">Biogram</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./services.html"> 
+<span class="menu-text"><span class="przycisk-zlecenia">Zlecenia</span></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://miszczyszyn.org/en/" target="_self"> 
+<span class="menu-text"><span class="przelacznik-jezyka" lang="en">EN</span></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/j-miszczyszyn"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/j-miszczyszyn"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://linkedin.com/in/j-miszczyszyn"> <i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/jakub-miszczyszyn-bab31b1b8/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://orcid.org/0009-0002-8592-946X"> 
-<span class="menu-text"><img src="assets/icons/orcid.svg" alt="ORCID" style="height: 20px; vertical-align: middle; margin-bottom: 4px;"></span></a>
+<span class="menu-text"><img src="./assets/icons/orcid.svg" alt="ORCID" style="height: 20px; vertical-align: middle; margin-bottom: 4px;"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -148,19 +211,18 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Programming</h1>
+<h1 class="title">Oprogramowanie</h1>
 </div>
 
+<div>
+  <div class="description">
+    Pakiety języka R do pracy z danymi leśnymi i teledetekcyjnymi, które rozwijam i udostępniam w serwisie GitHub.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Jakub Miszczyszyn </p>
-          </div>
-  </div>
     
   
     
@@ -171,11 +233,65 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In the progres…</p>
+<section id="grootr" class="level2 pakiet">
+<h2 class="anchored" data-anchor-id="grootr">GRootR</h2>
+<p><span class="podtytul">Wizualizacja 3D i analiza statystyczna systemów korzeniowych drzew wykrytych georadarem (GPR) · wersja 0.1.0 · licencja GPL (≥ 3)</span></p>
+<p>Pakiet przetwarza surowe pliki CSV eksportowane z oprogramowania georadarowego na przestrzenne segmenty korzeni, oblicza ich miary geometryczne (długość 3D, azymut, nachylenie, głębokość), łączy korzenie z położeniem pni drzew, wyznacza zasięg systemu korzeniowego w postaci wieloboków otoczki wypukłej, szacuje objętość bryły ograniczającej oraz analizuje nakładanie się systemów korzeniowych sąsiednich drzew.</p>
+<p>Pakiet powstał w ramach finansowanego przez NCN projektu „Zastosowanie georadaru ze skanerem 3D do pomiarów zmienności systemów korzeniowych sosny zwyczajnej”. Współautorką jest Luiza Tymińska-Czabańska.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># install.packages("pak")</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>pak<span class="sc">::</span><span class="fu">pak</span>(<span class="st">"j-miszczyszyn/GRootR"</span>)</span></code></pre></div><button title="Kopiuj do schowka" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="odnosniki">
+<p><a href="https://github.com/j-miszczyszyn/GRootR"><i class="bi bi-github" aria-hidden="true"></i> <span>Repozytorium</span></a> <a href="https://j-miszczyszyn.github.io/GRootR/"><i class="bi bi-book" aria-hidden="true"></i> <span>Dokumentacja</span></a></p>
+</div>
+</section>
+<section id="forestools" class="level2 pakiet">
+<h2 class="anchored" data-anchor-id="forestools">foRestools</h2>
+<p><span class="podtytul">Narzędzia dla leśników · wersja 1.0.3 · licencja GPL (≥ 3)</span></p>
+<p>Zbiór narzędzi do analizy danych leśnych i zadań teledetekcyjnych. Pakiet obejmuje m.in.:</p>
+<ul>
+<li>tworzenie modelu koron drzew (CHM) z plików LAS i normalizację wysokości chmury punktów LiDAR,</li>
+<li>wykrywanie wierzchołków drzew na modelu koron,</li>
+<li>przycinanie chmury punktów do obszaru zainteresowania (AOI) i przerzedzanie jej z zachowaniem wybranych klas,</li>
+<li>obliczanie wskaźników roślinności (CCI, DVI, GDVI, GSAVI, MSAVI, NDVI, TGI),</li>
+<li>pobieranie numerycznego modelu terenu i ortofotomapy z zasobów GUGiK dla dużych obszarów,</li>
+<li>obliczanie nowych współrzędnych na podstawie odległości i kierunku.</li>
+</ul>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># install.packages("devtools")</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>devtools<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"j-miszczyszyn/foRestools"</span>)</span></code></pre></div><button title="Kopiuj do schowka" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="odnosniki">
+<p><a href="https://github.com/j-miszczyszyn/foRestools"><i class="bi bi-github" aria-hidden="true"></i> <span>Repozytorium</span></a></p>
+</div>
+</section>
+<section id="ghawkr" class="level2 pakiet">
+<h2 class="anchored" data-anchor-id="ghawkr">ghawkR</h2>
+<p><span class="podtytul">Obsługa danych eksportowanych z oprogramowania gAirHawk · wersja 0.0.2 · licencja MIT</span></p>
+<p>Pakiet ułatwia pracę z danymi eksportowanymi z gAirHawk: nadawanie nazw kolumnom trajektorii, przerzedzanie rekordów, łączenie danych z wielu nalotów, zamianę tabel na obiekty przestrzenne i ich podgląd na wykresie.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># install.packages("devtools")</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>devtools<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"j-miszczyszyn/ghawkR"</span>)</span></code></pre></div><button title="Kopiuj do schowka" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="odnosniki">
+<p><a href="https://github.com/j-miszczyszyn/ghawkR"><i class="bi bi-github" aria-hidden="true"></i> <span>Repozytorium</span></a></p>
+</div>
+</section>
+<p>Pozostałe repozytoria są dostępne w moim <a href="https://github.com/j-miszczyszyn">profilu w serwisie GitHub</a>.</p>
 
 
 
 </main> <!-- /main -->
+<script>
+// Przełącznik języka w nawigacji: kieruje do tej samej podstrony w drugiej wersji językowej
+// (np. /publications.html <-> /en/publications.html), a nie tylko na stronę główną.
+document.addEventListener("DOMContentLoaded", function () {
+  var znacznik = document.querySelector(".przelacznik-jezyka");
+  if (!znacznik) { return; }
+  var odnosnik = znacznik.closest("a");
+  if (!odnosnik) { return; }
+  var sciezka = window.location.pathname;
+  var naAngielskiej = sciezka === "/en" || sciezka.indexOf("/en/") === 0;
+  var nowa = naAngielskiej ? (sciezka.replace(/^\/en/, "") || "/") : "/en" + sciezka;
+  odnosnik.setAttribute("href", nowa);
+  odnosnik.removeAttribute("target");
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -201,12 +317,12 @@ ul.task-list li input[type="checkbox"] {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Skopiowano!");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Skopiowano!");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
@@ -263,6 +379,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -577,6 +698,19 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2026 Jakub Miszczyszyn</p>
+</div>   
+    <div class="nav-footer-center">
+<p>Katedra Zarządzania Zasobami Leśnymi · Wydział Leśny · Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie</p>
+</div>
+    <div class="nav-footer-right">
+<p>Strona zbudowana w <a href="https://quarto.org">Quarto</a></p>
+</div>
+  </div>
+</footer>
 
 
 
