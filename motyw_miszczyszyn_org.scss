@@ -124,10 +124,11 @@ main:has(.strona-glowna) #title-block-header h1 { font-size: clamp(2.3rem, 4.6vw
 .wiersz > p:first-child { color: $szary; font-family: $font-family-monospace; font-weight: 500; font-size: 0.92rem; padding-top: 0.12rem; }
 .wiersz .kod a { color: $atrament; font-size: 1rem; }
 
-/* dawne kafle: lista wierszy „hasło – opis”, bez ramek */
+/* ============ Zlecenia: lista zakresu ============ */
+
 .kafle { margin: 1.4rem 0 2rem; border-top: 1px solid $linia; }
 .kafel { display: grid; grid-template-columns: 15rem minmax(0, 1fr); column-gap: 2rem; padding: 1rem 0; border-bottom: 1px solid $linia; }
-.kafel h3, .kafel h4 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
+.kafel h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
 .kafel p { margin: 0; }
 
 /* ============ Publikacje i wystąpienia ============ */
@@ -183,6 +184,7 @@ code { font-family: $font-family-monospace; }
 /* ============ Wąskie ekrany ============ */
 
 @media (max-width: 860px) {
+  .kafel { grid-template-columns: 1fr; row-gap: 0.3rem; }
   .wizytowka { grid-template-columns: 1fr; gap: 2rem; margin-top: 2rem; }
   .wizytowka .zdjecie { order: -1; max-width: 300px; }
   .wizytowka .zdjecie img { box-shadow: -9px -8px 0 $niebieski, 9px 8px 0 $zolty; }
@@ -191,7 +193,6 @@ code { font-family: $font-family-monospace; }
   .strona-glowna section.level2 > :not(h2) { grid-column: 1; }
   .wiersz { grid-template-columns: 1fr; }
   .wiersz > p:first-child { margin-bottom: 0.3rem; }
-  .kafel { grid-template-columns: 1fr; row-gap: 0.3rem; }
   .pas-zlecenia { grid-template-columns: 1fr; gap: 1.5rem; padding: 2rem 1.5rem; }
 }
 

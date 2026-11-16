@@ -49,18 +49,11 @@
     "text": "What’s Next?\nThrough this blog, I’ll dive into exciting topics such as:\n\nThe role of remote sensing in sustainable forestry.\nPractical tutorials in GIS and R programming for ecological data analysis.\nReflections on my doctoral research and fieldwork in forestry.\n\nI’m also passionate about photography and exploring the natural world through technology. Stay tuned for upcoming posts where I’ll share stories from the field and insights into my work.\n\nThank you for joining me on this journey! Feel free to reach out, share your thoughts, or collaborate through the links above. Let’s make sustainable forest management a reality together!\nCheers,\nJakub Miszczyszyn"
   },
   {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Zlecenia",
-    "section": "",
-    "text": "Poza pracą naukową jestem dostępny do realizacji zleceń. Prowadzę je pod marką Miszczyszyn Geospatial."
-  },
-  {
     "objectID": "services.html#zakres",
     "href": "services.html#zakres",
     "title": "Zlecenia",
     "section": "Zakres",
-    "text": "Zakres\n\n\nBezzałogowe statki powietrzne i LiDAR\nPozyskiwanie i przetwarzanie danych z bezzałogowych statków powietrznych: zobrazowania wielospektralne i termalne, chmury punktów skanowania laserowego.\n\n\nTeledetekcja\nAnaliza zobrazowań lotniczych i satelitarnych.\n\n\nGIS\nAnalizy danych przestrzennych.\n\n\nData mining\nEksploracja danych i programowanie w R.\n\n\nModelowanie\nModelowanie na podstawie danych przestrzennych i teledetekcyjnych.\n\n\nDorobek naukowy, na którym opieram się w zleceniach: publikacje i oprogramowanie."
+    "text": "Zakres\n\n\nBezzałogowe statki powietrzne i LiDAR\nPozyskiwanie i przetwarzanie danych z bezzałogowych statków powietrznych: zobrazowania wielospektralne i termalne, chmury punktów skanowania laserowego.\n\n\nTeledetekcja\nAnaliza zobrazowań lotniczych i satelitarnych.\n\n\nGIS\nAnalizy danych przestrzennych.\n\n\nData mining\nEksploracja danych i programowanie w R.\n\n\nModelowanie\nModelowanie na podstawie danych przestrzennych i teledetekcyjnych."
   },
   {
     "objectID": "presentations.html",

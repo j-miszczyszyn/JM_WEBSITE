@@ -49,18 +49,11 @@
     "text": "What’s Next?\nThrough this blog, I’ll dive into exciting topics such as:\n\nThe role of remote sensing in sustainable forestry.\nPractical tutorials in GIS and R programming for ecological data analysis.\nReflections on my doctoral research and fieldwork in forestry.\n\nI’m also passionate about photography and exploring the natural world through technology. Stay tuned for upcoming posts where I’ll share stories from the field and insights into my work.\n\nThank you for joining me on this journey! Feel free to reach out, share your thoughts, or collaborate through the links above. Let’s make sustainable forest management a reality together!\nCheers,\nJakub Miszczyszyn"
   },
   {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Services",
-    "section": "",
-    "text": "Alongside my research, I am available for commissioned work, carried out under the Miszczyszyn Geospatial brand."
-  },
-  {
     "objectID": "services.html#scope",
     "href": "services.html#scope",
     "title": "Services",
     "section": "Scope",
-    "text": "Scope\n\n\nUAV and LiDAR\nAcquisition and processing of UAV data: multispectral and thermal imagery, laser scanning point clouds.\n\n\nRemote sensing\nAnalysis of aerial and satellite imagery.\n\n\nGIS\nSpatial data analysis.\n\n\nData mining\nData mining and programming in R.\n\n\nModelling\nModelling based on spatial and remote sensing data.\n\n\nThe research record behind this work: publications and software."
+    "text": "Scope\n\n\nUAV and LiDAR\nAcquisition and processing of UAV data: multispectral and thermal imagery, laser scanning point clouds.\n\n\nRemote sensing\nAnalysis of aerial and satellite imagery.\n\n\nGIS\nSpatial data analysis.\n\n\nData mining\nData mining and programming in R.\n\n\nModelling\nModelling based on spatial and remote sensing data."
   },
   {
     "objectID": "presentations.html",

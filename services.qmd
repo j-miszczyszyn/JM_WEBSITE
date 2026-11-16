@@ -1,6 +1,6 @@
 ---
 title: "{{< meta strony.services.title >}}"
-description: "{{< meta strony.services.description >}}"
+description-meta: "{{< meta strony.services.description >}}"
 ---
 
 ::: {.marka-naglowek}
@@ -8,8 +8,6 @@ description: "{{< meta strony.services.description >}}"
 :::
 
 :::::: {.content-visible when-profile="pl"}
-Poza pracą naukową jestem dostępny do realizacji zleceń. Prowadzę je pod marką **Miszczyszyn Geospatial**.
-
 ## Zakres
 
 ::::: {.kafle}
@@ -43,13 +41,9 @@ Eksploracja danych i programowanie w R.
 Modelowanie na podstawie danych przestrzennych i teledetekcyjnych.
 :::
 :::::
-
-Dorobek naukowy, na którym opieram się w zleceniach: [publikacje](publications.qmd) i [oprogramowanie](programming.qmd).
 ::::::
 
 :::::: {.content-visible when-profile="en"}
-Alongside my research, I am available for commissioned work, carried out under the **Miszczyszyn Geospatial** brand.
-
 ## Scope
 
 ::::: {.kafle}
@@ -83,6 +77,4 @@ Data mining and programming in R.
 Modelling based on spatial and remote sensing data.
 :::
 :::::
-
-The research record behind this work: [publications](publications.qmd) and [software](programming.qmd).
 ::::::
