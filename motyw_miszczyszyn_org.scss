@@ -199,3 +199,9 @@ code { font-family: $font-family-monospace; }
 @media (max-width: 1199.98px) {
   .navbar .nav-link:has(.przycisk-zlecenia) { display: inline-block; margin: 0.4rem 0; }
 }
+
+/* Menu w jednej linii na ekranach 1200–1399 px (polskie nazwy zakładek są dłuższe) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .navbar .nav-link { font-size: 0.9rem; padding-left: 0.4rem !important; padding-right: 0.4rem !important; }
+  .navbar-brand .navbar-title { font-size: 1.1rem; }
+}

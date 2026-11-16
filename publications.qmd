@@ -89,7 +89,7 @@ Hawryło, Paweł; Socha, Jarosław; Wężyk, Piotr; Ochał, Wojciech; Krawczyk, 
 
 [Modelowanie 3D wybranych drzew na podstawie chmur punktów TLS LiDAR]{.tytul}\
 Bajorek-Zydroń, Katarzyna; Wężyk, Piotr; Żądło, Anna; [Miszczyszyn, Jakub]{.ja}\
-[[W:]{.content-visible when-profile="pl"}[In:]{.content-visible when-profile="en"} *Drzewa w zieleni miejskiej* (2021), ProGea 4D, Zarząd Zieleni Miejskiej w Krakowie, [s. 73–78]{.content-visible when-profile="pl"}[pp. 73–78]{.content-visible when-profile="en"} · ISBN: 978-83-956787-4-0 · [[Repozytorium URK]{.content-visible when-profile="pl"}[URK Repository]{.content-visible when-profile="en"}](https://repo.ur.krakow.pl/info/article/UR3b37e4c3d3474fbeaf2169e823649a76)]{.zrodlo}
+[[W: P. Sewerniak, P. Wężyk (red.),]{.content-visible when-profile="pl"}[In: P. Sewerniak, P. Wężyk (eds.),]{.content-visible when-profile="en"} *Drzewa w zieleni miejskiej* (2021), ProGea 4D, Zarząd Zieleni Miejskiej w Krakowie, [s. 73–78]{.content-visible when-profile="pl"}[pp. 73–78]{.content-visible when-profile="en"} · ISBN: 978-83-956787-4-0 · [[Repozytorium URK]{.content-visible when-profile="pl"}[URK Repository]{.content-visible when-profile="en"}](https://repo.ur.krakow.pl/info/article/UR3b37e4c3d3474fbeaf2169e823649a76)]{.zrodlo}
 :::
 
 ```{=html}

@@ -22,6 +22,8 @@ website:
         href: workshops.qmd
       - text: "Software"
         href: programming.qmd
+      - text: "Data"
+        href: data.qmd
       - text: "Geomatics Section"
         href: sekcja-geomatyki.qmd
       - text: "Bio"
@@ -65,6 +67,9 @@ strony:
   programming:
     title: "Software"
     description: "R packages for forest and remote sensing data that I develop and share on GitHub."
+  data:
+    title: "Data"
+    description: "Datasets published in repositories."
   sekcja:
     title: "Geomatics Section"
     description: "The Geomatics Section of the Forestry Students' Scientific Association at the University of Agriculture in Krakow."

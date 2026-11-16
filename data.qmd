@@ -1,0 +1,16 @@
+---
+title: "{{< meta strony.data.title >}}"
+description-meta: "{{< meta strony.data.description >}}"
+---
+
+::::: {.pozycje}
+
+::: {.wiersz}
+[2026]{.lewa}
+
+[Monthly 1-km SPI, SPEI and SRI drought-indicator rasters for Poland (1995–2024)]{.tytul}\
+[Miszczyszyn, Jakub]{.ja}; Radoń, Radosław\
+[Zenodo · [wersja 1.0.0]{.content-visible when-profile="pl"}[version 1.0.0]{.content-visible when-profile="en"} · DOI: [10.5281/zenodo.21278366](https://doi.org/10.5281/zenodo.21278366)]{.zrodlo}
+:::
+
+:::::

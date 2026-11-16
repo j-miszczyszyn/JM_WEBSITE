@@ -26,6 +26,8 @@ website:
         href: workshops.qmd
       - text: "Oprogramowanie"
         href: programming.qmd
+      - text: "Dane"
+        href: data.qmd
       - text: "Sekcja Geomatyki"
         href: sekcja-geomatyki.qmd
       - text: "Biogram"
@@ -69,6 +71,9 @@ strony:
   programming:
     title: "Oprogramowanie"
     description: "Pakiety języka R do pracy z danymi leśnymi i teledetekcyjnymi, które rozwijam i udostępniam w serwisie GitHub."
+  data:
+    title: "Dane"
+    description: "Zbiory danych udostępnione w repozytoriach."
   sekcja:
     title: "Sekcja Geomatyki"
     description: "Sekcja Geomatyki Koła Naukowego Leśników Uniwersytetu Rolniczego w Krakowie."

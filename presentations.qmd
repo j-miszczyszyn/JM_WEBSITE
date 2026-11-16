@@ -8,27 +8,27 @@ description: "{{< meta strony.presentations.description >}}"
 ## [Prezentowane osobiście]{.content-visible when-profile="pl"}[Presented by me]{.content-visible when-profile="en"}
 
 ::: {.wiersz}
+[2026]{.lewa}
+
+[Możliwości wykrywania jemioły pospolitej na sośnie zwyczajnej w oparciu o obrazy RGB i wielospektralne z bezzałogowych statków powietrznych]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Piotr Wężyk, Luiza Tymińska-Czabańska, Jarosław Socha, Marta Szostak\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Konferencja „GIS w Nauce”, Olsztyn, [24 września 2026]{.content-visible when-profile="pl"}[24 September 2026]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2025]{.lewa}
+
+[Wpływ jemioły (*Viscum album* ssp. *austriacum*) i gospodarki leśnej na stan sanitarny drzewostanów w kontekście zachodzących zmian klimatycznych – analiza w oparciu o wysokorozdzielcze dane satelitarne]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Luiza Tymińska-Czabańska, Jarosław Socha\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · II Kongres Geoinformacyjny, Zielona Góra, [23–24 października 2025]{.content-visible when-profile="pl"}[23–24 October 2025]{.content-visible when-profile="en"} · [[program]{.content-visible when-profile="pl"}[programme]{.content-visible when-profile="en"}](https://kongres-geo.pl/index.php/pl/program)]{.zrodlo}
+:::
+
+::: {.wiersz}
 [2024]{.lewa}
 
 [Analysis of the information capability of spectral indices in remote sensing of mistletoe (*Viscum album* ssp. *austriacum* L.) in pine stands, acquired using unmanned aerial platforms (BSP)]{.tytul}\
 [Jakub Miszczyszyn]{.ja}\
 [[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · EnviLink, [maj 2024]{.content-visible when-profile="pl"}[May 2024]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/380604731_Analysis_of_the_information_capability_of_spectral_indices_in_remote_sensing_of_mistletoe_Viscum_album_ssp_austriacum_L_in_pine_stands_acquired_using_unmanned_aerial_platforms_BSP)]{.zrodlo}
-:::
-
-::: {.wiersz}
-[2022]{.lewa}
-
-[Analiza dokładności pomiaru wysokości drzew z wykorzystaniem trójwymiarowych chmur punktów generowanych na bazie zdjęć BSP]{.tytul}\
-[Jakub Miszczyszyn]{.ja}, Paweł Hawryło, Wojciech Krawczyk, Artur Golasz\
-[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · Małopolski GIS Day 2022, [listopad 2022]{.content-visible when-profile="pl"}[November 2022]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375624480_Analiza_dokladnosci_pomiaru_wysokosci_drzew_z_wykorzystaniem_trojwymiarowych_chmur_punktow_generowanych_na_bazie_zdjec_BSP)]{.zrodlo}
-:::
-
-::: {.wiersz}
-[2022]{.lewa}
-
-[Detection of mistletoe (*Viscum album* ssp. *austriacum* L.) in Scots pine stands using the MS and RGB UAV high resolution orthophoto]{.tytul}\
-[Jakub Miszczyszyn]{.ja}, Piotr Wężyk\
-[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · ForestSAT 2022, [wrzesień 2022]{.content-visible when-profile="pl"}[September 2022]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375592451_Detection_of_mistletoe_Viscum_album_ssp_austriacum_L_in_Scots_pine_stands_using_the_MS_and_RGB_UAV_high_resolution_orthophoto)]{.zrodlo}
 :::
 
 ```{=html}
@@ -37,11 +37,66 @@ description: "{{< meta strony.presentations.description >}}"
 ```
 
 ::: {.wiersz}
+[2024]{.lewa}
+
+[Hexa finder]{.tytul}\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · [Konferencja kół naukowych, Uniwersytet Ekonomiczny w Krakowie, 19 kwietnia 2024]{.content-visible when-profile="pl"}[Conference of student scientific associations, Krakow University of Economics, 19 April 2024]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2023]{.lewa}
+
+[Wykorzystanie bezzałogowych statków powietrznych do automatycznego określania wybranych cech drzew i drzewostanów sosnowych]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Artur Golasz, Przemysław Waniewski, Grzegorz Makuch, Filip Jakuczun, Wojciech Krawczyk, Natalia Rębisz\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, [29 maja 2023]{.content-visible when-profile="pl"}[29 May 2023]{.content-visible when-profile="en"} · [I miejsce na Wydziale Leśnym]{.content-visible when-profile="pl"}[1st place, Faculty of Forestry]{.content-visible when-profile="en"} · [[materiały]{.content-visible when-profile="pl"}[proceedings]{.content-visible when-profile="en"}](https://whibz.urk.edu.pl/zasoby/4/Materialy_SKN_2023_.pdf)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2023]{.lewa}
+
+[Monitoring of Scots pine stands in terms of hazards from Mistletoe – based on the analysis of high-resolution UAV images]{.tytul}\
+[Jakub Miszczyszyn]{.ja}\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · 63. ŠVOČ, Lesnícka fakulta, Technická univerzita vo Zvolene, [4 kwietnia 2023]{.content-visible when-profile="pl"}[4 April 2023]{.content-visible when-profile="en"} · [I miejsce w sekcji inżynierskiej obcojęzycznej]{.content-visible when-profile="pl"}[1st place, engineering section in a foreign language]{.content-visible when-profile="en"} · [[wyniki]{.content-visible when-profile="pl"}[results]{.content-visible when-profile="en"}](https://lf.tuzvo.sk/sites/default/files/vysledne_poradie_svoc_2023.pdf)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2022]{.lewa}
+
+[Wykorzystanie BSP w monitoringu drzewostanów sosnowych pod kątem rozprzestrzeniania się Jemioły pospolitej rozpierzchłej (*Viscum album* ssp. *austriacum* L.)]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Piotr Wężyk\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · XXV Ogólnopolska Konferencja Fotointerpretacji i Teledetekcji, Politechnika Warszawska, [28 listopada 2022 (zdalnie)]{.content-visible when-profile="pl"}[28 November 2022 (online)]{.content-visible when-profile="en"} · [[streszczenia]{.content-visible when-profile="pl"}[abstracts]{.content-visible when-profile="en"}](https://xxvokfit.pw.edu.pl/content/download/308/1522/file/XXV_OKFiT_2022_streszczenia_referatow.pdf)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2022]{.lewa}
+
+[Analiza dokładności pomiaru wysokości drzew z wykorzystaniem trójwymiarowych chmur punktów generowanych na bazie zdjęć BSP]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Paweł Hawryło, Wojciech Krawczyk, Artur Golasz\
+[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · Małopolski GIS Day 2022, [listopad 2022]{.content-visible when-profile="pl"}[November 2022]{.content-visible when-profile="en"} · DOI: [10.13140/RG.2.2.24737.79205](https://doi.org/10.13140/RG.2.2.24737.79205)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2022]{.lewa}
+
+[Detection of mistletoe (*Viscum album* ssp. *austriacum* L.) in Scots pine stands using the MS and RGB UAV high resolution orthophoto]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Piotr Wężyk\
+[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · ForestSAT 2022, Berlin, [wrzesień 2022]{.content-visible when-profile="pl"}[September 2022]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375592451_Detection_of_mistletoe_Viscum_album_ssp_austriacum_L_in_Scots_pine_stands_using_the_MS_and_RGB_UAV_high_resolution_orthophoto)]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2022]{.lewa}
+
+[Analiza dokładności pomiaru wysokości drzew z wykorzystaniem trójwymiarowych chmur punktów generowanych na bazie zdjęć BSP]{.tytul}\
+[Jakub Miszczyszyn]{.ja}, Paweł Hawryło, Wojciech Krawczyk, Artur Golasz\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · VI Konferencja Kół Naukowych Leśników, Kraków, [19–21 kwietnia 2022]{.content-visible when-profile="pl"}[19–21 April 2022]{.content-visible when-profile="en"} · [wyróżnienie]{.content-visible when-profile="pl"}[distinction]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
+::: {.wiersz}
 [2021]{.lewa}
 
 [Monitoring of Scots pine stands in terms of hazards from Mistletoe – based on the analysis of high-resolution UAV images]{.tytul}\
 [Jakub Miszczyszyn]{.ja}, Piotr Wężyk\
-[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · 40th EARSeL Symposium, [czerwiec 2021]{.content-visible when-profile="pl"}[June 2021]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375635320_Monitoring_of_Scots_pine_stands_in_terms_of_hazards_from_Mistletoe_-_based_on_the_analysis_of_high-resolution_UAV_images)]{.zrodlo}
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · 40th EARSeL Symposium, [9 czerwca 2021 (zdalnie)]{.content-visible when-profile="pl"}[9 June 2021 (online)]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375635320_Monitoring_of_Scots_pine_stands_in_terms_of_hazards_from_Mistletoe_-_based_on_the_analysis_of_high-resolution_UAV_images)]{.zrodlo}
 :::
 
 ::: {.wiersz}
@@ -52,6 +107,14 @@ description: "{{< meta strony.presentations.description >}}"
 [[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego, [maj 2021]{.content-visible when-profile="pl"}[May 2021]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/377747936_Analizy_lokalizacji_zalegania_pokrywy_snieznej_w_Bieszczadzkim_Parku_Narodowym_w_2019_roku_na_podstawie_niekomercyjnych_zobrazowan_satelitarnych_Sentinel-2_oraz_Landsat-8)]{.zrodlo}
 :::
 
+::: {.wiersz}
+[2021]{.lewa}
+
+[Analizy lokalizacji zalegania pokrywy śnieżnej w Bieszczadzkim Parku Narodowym w 2019 roku na podstawie niekomercyjnych zobrazowań satelitarnych Sentinel-2 oraz Landsat-8]{.tytul}\
+Przemysław Mamuszka, [Jakub Miszczyszyn]{.ja}\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Ogólnopolska Konferencja Naukowa „Geomatyka w aktywności studenckich kół naukowych”, Uniwersytet Przyrodniczy w Poznaniu, [26–27 marca 2021]{.content-visible when-profile="pl"}[26–27 March 2021]{.content-visible when-profile="en"} · [I miejsce]{.content-visible when-profile="pl"}[1st place]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
 ```{=html}
 </details>
 ```
@@ -59,11 +122,48 @@ description: "{{< meta strony.presentations.description >}}"
 ## [Opieka naukowa i współautorstwo]{.content-visible when-profile="pl"}[Supervision and co-authorship]{.content-visible when-profile="en"}
 
 ::: {.wiersz}
+[2026]{.lewa}
+
+[Teledetekcyjny monitoring barszczu Sosnowskiego (*Heracleum sosnowskyi*) w Beskidzie Niskim z wykorzystaniem zobrazowań Planet oraz map referencyjnych z BSP: porównanie metod SVM, segmentacji i CatBoost]{.tytul}\
+Franciszek Błaś · [opieka naukowa]{.content-visible when-profile="pl"}[supervisor]{.content-visible when-profile="en"}: [Jakub Miszczyszyn]{.ja}\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, [25 maja 2026]{.content-visible when-profile="pl"}[25 May 2026]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2026]{.lewa}
+
+[Mapowanie podobieństwa topograficznego obszarów o wysokiej wartości przyrodniczej z wykorzystaniem sygnatur przestrzennych opartych na pochodnych numerycznego modelu terenu]{.tytul}\
+Adam Ziółkowski · [opieka naukowa]{.content-visible when-profile="pl"}[supervisor]{.content-visible when-profile="en"}: [Jakub Miszczyszyn]{.ja}\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, [25 maja 2026]{.content-visible when-profile="pl"}[25 May 2026]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
+::: {.wiersz}
+[2025]{.lewa}
+
+[Nieinwazyjna ocena siedliskowo uwarunkowanej architektury systemu korzeniowego sosny zwyczajnej z wykorzystaniem wielokanałowego georadaru: pionierskie zastosowanie w leśnych badaniach strefy podziemnej]{.tytul}\
+Franciszek Błaś, Luiza Tymińska-Czabańska, [Jakub Miszczyszyn]{.ja}\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · XIV Ogólnopolska Konferencja Naukowa Młodych Badaczy, Uniwersytet Jagielloński, Kraków, [24–26 października 2025]{.content-visible when-profile="pl"}[24–26 October 2025]{.content-visible when-profile="en"} · [[książka abstraktów]{.content-visible when-profile="pl"}[book of abstracts]{.content-visible when-profile="en"}](https://oknmb.geo.uj.edu.pl/documents/154212232/154219981/XIV_OKNMB_ksiazka_abstraktow_gotowa.pdf/e56cd94a-7ef3-4950-8764-7b67961c1388)]{.zrodlo}
+:::
+
+```{=html}
+<details class="wiecej-pozycji">
+<summary><span class="zamkniete" lang="pl">Rozwiń więcej</span><span class="zamkniete" lang="en">Show more</span><span class="otwarte" lang="pl">Zwiń</span><span class="otwarte" lang="en">Show less</span></summary>
+```
+
+::: {.wiersz}
+[2025]{.lewa}
+
+[Teledetekcja jako narzędzie monitorowania i zarządzania Barszczu sosnowskiego (*Heracleum sosnowskyi*) – studium przypadku w Beskidzie Niskim]{.tytul}\
+Franciszek Błaś, [Jakub Miszczyszyn]{.ja}, Natalia Rębisz, Filip Iwaniec\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, [26 maja 2025]{.content-visible when-profile="pl"}[26 May 2025]{.content-visible when-profile="en"} · [I miejsce na Wydziale Leśnym]{.content-visible when-profile="pl"}[1st place, Faculty of Forestry]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
+::: {.wiersz}
 [2025]{.lewa}
 
 [Dokładność i ograniczenia modelu High Resolution Canopy Height Maps (Meta & WRI): Studium przypadku Nadleśnictwa Zwierzyniec]{.tytul}\
 Natalia Rębisz, [Jakub Miszczyszyn]{.ja}, Filip Iwaniec, Franciszek Błaś, Adam Ziółkowski\
-[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, [maj 2025]{.content-visible when-profile="pl"}[May 2025]{.content-visible when-profile="en"} · DOI: [10.13140/RG.2.2.10410.73929](https://doi.org/10.13140/RG.2.2.10410.73929)]{.zrodlo}
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, [26 maja 2025]{.content-visible when-profile="pl"}[26 May 2025]{.content-visible when-profile="en"} · DOI: [10.13140/RG.2.2.10410.73929](https://doi.org/10.13140/RG.2.2.10410.73929)]{.zrodlo}
 :::
 
 ::: {.wiersz}
@@ -79,7 +179,19 @@ Filip Iwaniec, Natalia Rębisz, [Jakub Miszczyszyn]{.ja}, Paweł Hawryło\
 
 [IPC UAV photogrammetry vs ULS LiDAR – comparison of low-cost solutions for forest stands height determination]{.tytul}\
 Piotr Wężyk, Wojciech Krawczyk, [Jakub Miszczyszyn]{.ja}\
-[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · SilviLaser 2023, [wrzesień 2023]{.content-visible when-profile="pl"}[September 2023]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375962883_IPC_UAV_photogrammetry_vs_ULS_LiDAR_-_comparison_of_low-cost_solutions_for_forest_stands_height_determination)]{.zrodlo}
+[[Poster]{.content-visible when-profile="pl"}[Poster]{.content-visible when-profile="en"} · SilviLaser 2023, [Londyn, 6–8 września 2023]{.content-visible when-profile="pl"}[London, 6–8 September 2023]{.content-visible when-profile="en"} · [ResearchGate](https://www.researchgate.net/publication/375962883_IPC_UAV_photogrammetry_vs_ULS_LiDAR_-_comparison_of_low-cost_solutions_for_forest_stands_height_determination)]{.zrodlo}
 :::
+
+::: {.wiersz}
+[2023]{.lewa}
+
+[Parametryzacja algorytmu automatycznej detekcji drzew w oparciu o chmury punktów lotniczego skanowania laserowego z wykorzystaniem danych pomiarowych o wielkości koron drzew]{.tytul}\
+Artur Golasz, [Jakub Miszczyszyn]{.ja} [i in.]{.content-visible when-profile="pl"}[et al.]{.content-visible when-profile="en"}\
+[[Wystąpienie]{.content-visible when-profile="pl"}[Talk]{.content-visible when-profile="en"} · Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, [29 maja 2023]{.content-visible when-profile="pl"}[29 May 2023]{.content-visible when-profile="en"} · [II miejsce na Wydziale Leśnym]{.content-visible when-profile="pl"}[2nd place, Faculty of Forestry]{.content-visible when-profile="en"}]{.zrodlo}
+:::
+
+```{=html}
+</details>
+```
 
 :::::
