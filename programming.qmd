@@ -1,6 +1,106 @@
 ---
-title: "Programming"
-author: "Jakub Miszczyszyn"
-
+title: "{{< meta strony.programming.title >}}"
+description: "{{< meta strony.programming.description >}}"
 ---
-In the progres...
+
+:::: {.pakiet}
+## GRootR
+
+::: {.content-visible when-profile="pl"}
+[Wizualizacja 3D i analiza statystyczna systemów korzeniowych drzew wykrytych georadarem (GPR) · wersja 0.1.0 · licencja GPL (≥ 3)]{.podtytul}
+
+Pakiet przetwarza surowe pliki CSV eksportowane z oprogramowania georadarowego na przestrzenne segmenty korzeni, oblicza ich miary geometryczne (długość 3D, azymut, nachylenie, głębokość), łączy korzenie z położeniem pni drzew, wyznacza zasięg systemu korzeniowego w postaci wieloboków otoczki wypukłej, szacuje objętość bryły ograniczającej oraz analizuje nakładanie się systemów korzeniowych sąsiednich drzew.
+
+Pakiet powstał w ramach finansowanego przez NCN projektu „Zastosowanie georadaru ze skanerem 3D do pomiarów zmienności systemów korzeniowych sosny zwyczajnej”. Współautorką jest Luiza Tymińska-Czabańska.
+:::
+
+::: {.content-visible when-profile="en"}
+[3D visualization and statistical analysis of GPR-detected tree root systems · version 0.1.0 · GPL (≥ 3) licence]{.podtytul}
+
+The package processes raw CSV exports from GPR software into spatial root segments, computes their geometric metrics (3D length, azimuth, slope, depth), links roots to tree stem positions, delineates root system extent with convex hull polygons, estimates bounding volume, and analyses root system overlap between neighbouring trees.
+
+Developed as part of the NCN-funded project "Application of ground-penetrating radar with 3D scanner for measuring variability in Scots pine root systems". Co-authored with Luiza Tymińska-Czabańska.
+:::
+
+```r
+# install.packages("pak")
+pak::pak("j-miszczyszyn/GRootR")
+```
+
+::: {.odnosniki}
+[<i class="bi bi-github" aria-hidden="true"></i> [Repozytorium]{.content-visible when-profile="pl"}[Repository]{.content-visible when-profile="en"}](https://github.com/j-miszczyszyn/GRootR)
+[<i class="bi bi-book" aria-hidden="true"></i> [Dokumentacja]{.content-visible when-profile="pl"}[Documentation]{.content-visible when-profile="en"}](https://j-miszczyszyn.github.io/GRootR/)
+:::
+::::
+
+:::: {.pakiet}
+## foRestools
+
+::: {.content-visible when-profile="pl"}
+[Narzędzia dla leśników · wersja 1.0.3 · licencja GPL (≥ 3)]{.podtytul}
+
+Zbiór narzędzi do analizy danych leśnych i zadań teledetekcyjnych. Pakiet obejmuje m.in.:
+
+- tworzenie modelu koron drzew (CHM) z plików LAS i normalizację wysokości chmury punktów LiDAR,
+- wykrywanie wierzchołków drzew na modelu koron,
+- przycinanie chmury punktów do obszaru zainteresowania (AOI) i przerzedzanie jej z zachowaniem wybranych klas,
+- obliczanie wskaźników roślinności (CCI, DVI, GDVI, GSAVI, MSAVI, NDVI, TGI),
+- pobieranie numerycznego modelu terenu i ortofotomapy z zasobów GUGiK dla dużych obszarów,
+- obliczanie nowych współrzędnych na podstawie odległości i kierunku.
+:::
+
+::: {.content-visible when-profile="en"}
+[Tools for foresters · version 1.0.3 · GPL (≥ 3) licence]{.podtytul}
+
+A set of tools for forest data analysis and remote sensing tasks. The package includes, among others:
+
+- creating a canopy height model (CHM) from LAS files and normalizing LiDAR point cloud heights,
+- detecting treetops on a canopy height model,
+- clipping a point cloud to an area of interest (AOI) and thinning it while preserving selected classes,
+- calculating vegetation indices (CCI, DVI, GDVI, GSAVI, MSAVI, NDVI, TGI),
+- downloading the digital terrain model and orthophotos from GUGiK for large areas,
+- calculating new coordinates from a distance and direction.
+:::
+
+```r
+# install.packages("devtools")
+devtools::install_github("j-miszczyszyn/foRestools")
+```
+
+::: {.odnosniki}
+[<i class="bi bi-github" aria-hidden="true"></i> [Repozytorium]{.content-visible when-profile="pl"}[Repository]{.content-visible when-profile="en"}](https://github.com/j-miszczyszyn/foRestools)
+:::
+::::
+
+:::: {.pakiet}
+## ghawkR
+
+::: {.content-visible when-profile="pl"}
+[Obsługa danych eksportowanych z oprogramowania gAirHawk · wersja 0.0.2 · licencja MIT]{.podtytul}
+
+Pakiet ułatwia pracę z danymi eksportowanymi z gAirHawk: nadawanie nazw kolumnom trajektorii, przerzedzanie rekordów, łączenie danych z wielu nalotów, zamianę tabel na obiekty przestrzenne i ich podgląd na wykresie.
+:::
+
+::: {.content-visible when-profile="en"}
+[Support for data exported from the gAirHawk software · version 0.0.2 · MIT licence]{.podtytul}
+
+The package simplifies work with data exported from gAirHawk: renaming trajectory columns, thinning records, merging data from multiple flights, converting tables to spatial objects and previewing them on a plot.
+:::
+
+```r
+# install.packages("devtools")
+devtools::install_github("j-miszczyszyn/ghawkR")
+```
+
+::: {.odnosniki}
+[<i class="bi bi-github" aria-hidden="true"></i> [Repozytorium]{.content-visible when-profile="pl"}[Repository]{.content-visible when-profile="en"}](https://github.com/j-miszczyszyn/ghawkR)
+:::
+::::
+
+::: {.content-visible when-profile="pl"}
+Pozostałe repozytoria są dostępne w moim [profilu w serwisie GitHub](https://github.com/j-miszczyszyn).
+:::
+
+::: {.content-visible when-profile="en"}
+My other repositories are available on my [GitHub profile](https://github.com/j-miszczyszyn).
+:::

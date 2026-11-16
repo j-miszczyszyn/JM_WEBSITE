@@ -1,32 +1,29 @@
 project:
   type: website
-  output-dir: docs
+
+# Strona ma dwie wersje językowe budowane z tych samych plików .qmd:
+#   quarto render                 -> wersja polska  (docs/)
+#   quarto render --profile en    -> wersja angielska (docs/en/)
+# Ustawienia zależne od języka są w plikach _quarto-pl.yml i _quarto-en.yml.
+profile:
+  default: pl
+  group:
+    - [pl, en]
 
 website:
-  title: "Home"
-  site-url: https://miszczyszyn.org 
-  navbar:
-    logo: logo.png
-    left: 
-      - text: "Blog"
-        href: posts.qmd
-      - text: "Research Articles"
-        href: publications.qmd
-      - text: "Programming"
-        href: programming.qmd
-      - text: "Photography"
-        href: photography.qmd
-    right:
-      - text: "About"
-        href: index.qmd
-      - icon: github
-        href: https://github.com/j-miszczyszyn
-      - icon: linkedin
-        href: https://linkedin.com/in/j-miszczyszyn
-      - text: "<img src='assets/icons/orcid.svg' alt='ORCID' style='height: 20px; vertical-align: middle; margin-bottom: 4px;'>"
-        href: https://orcid.org/0009-0002-8592-946X
+  favicon: assets/icons/favicon_znak_M.svg
+  image: assets/images/jm.webp
+  twitter-card: true
+
+filters:
+  - wersje_jezykowe_canonical_hreflang.lua
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+      - motyw_miszczyszyn_org.scss
+    toc: false
+    html-math-method: plain
+    link-external-newwindow: true
+    include-after-body: przelacznik_jezyka.html

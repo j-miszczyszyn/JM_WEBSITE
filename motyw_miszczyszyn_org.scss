@@ -61,6 +61,8 @@ $zakres-latin: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+
 .navbar-brand, .navbar-brand-container { max-width: none !important; flex-shrink: 0; }
 .navbar-brand .navbar-title { overflow: visible; text-overflow: clip; white-space: nowrap; }
 .navbar-brand .navbar-title strong { font-weight: 700; }
+.navbar-brand .navbar-logo { max-height: 26px; width: auto; margin-right: 0.55rem; }
+.navbar-brand-container { display: flex; align-items: center; }
 .navbar .nav-link { white-space: nowrap; font-size: 0.95rem; border-bottom: 2px solid transparent; padding-bottom: 0.15rem; }
 .navbar .nav-link.active, .navbar .nav-link:hover { border-bottom-color: $atrament; color: $atrament; }
 .przelacznik-jezyka { font-family: $font-family-monospace; font-size: 0.8rem; }

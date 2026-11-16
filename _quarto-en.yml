@@ -12,6 +12,8 @@ website:
     site-name: "Jakub Miszczyszyn"
   navbar:
     title: "Jakub **Miszczyszyn**"
+    logo: assets/icons/znak_M_kolor.svg
+    logo-alt: "M"
     collapse-below: xl
     left:
       - text: "Publications"
