@@ -1,99 +1,86 @@
 ---
-title: "{{< meta strony.publications.title >}}"
-description: "{{< meta strony.publications.description >}}"
+title: "Research Articles"
+author: "Jakub Miszczyszyn"
 ---
 
-::::: {.pozycje}
+# Articles:
 
-::: {.wiersz}
-[2026]{.lewa}
+## 2025
 
-[Multispectral vs. RGB UAV Imagery for Detecting Mistletoe (*Viscum album*) in Scots Pine Forests: Identifying the Most Informative Vegetation Indices]{.tytul} [pierwszy autor]{.znacznik .content-visible when-profile="pl"}[first author]{.znacznik .content-visible when-profile="en"}\
-[Miszczyszyn, Jakub]{.ja}; Wężyk, Piotr; Tymińska-Czabańska, Luiza; Socha, Jarosław; Szostak, Marta\
-[*Remote Sensing* (2026), 18(10), 1607 · DOI: [10.3390/rs18101607](https://doi.org/10.3390/rs18101607)]{.zrodlo}
-:::
+1. **First application of multichannel GPR for root system variability analysis in Scots pine forests**  
+   *Tymińska-Czabańska, Luiza; Polak, Marcin; Miszczyszyn, Jakub; Dąbrowski, Michał; Socha, Jarosław*  
+   *Ecological Indicators (2025), Volume 179, 114282*  
+   DOI: [10.1016/j.ecolind.2025.114282](https://doi.org/10.1016/j.ecolind.2025.114282)
 
-::: {.wiersz}
-[2026]{.lewa}
+## 2024
 
-[Root System Architecture of Scots Pine as an Ecological Indicator of Site Productivity: First Insights from Multichannel Ground-Penetrating Radar]{.tytul}\
-Błaś, Franciszek; Ziółkowski, Adam; [Miszczyszyn, Jakub]{.ja}; Neroj, Bożydar; Pawelec, Igor; Socha, Jarosław; Tymińska-Czabańska, Luiza\
-[*Remote Sensing* (2026), 18(11), 1694 · DOI: [10.3390/rs18111694](https://doi.org/10.3390/rs18111694)]{.zrodlo}
-:::
+1. **A low-cost alternative to LiDAR for site index models: applying repeated digital aerial photogrammetry data in the modelling of forest top height growth**  
+   *Janiec, Piotr; Hawryło, Paweł; Tymińska-Czabańska, Luiza; Miszczyszyn, Jakub; Socha, Jarosław*  
+   *Forestry: An International Journal of Forest Research (2024)*  
+   DOI: [10.1093/forestry/cpae047](http://dx.doi.org/10.1093/forestry/cpae047)
 
-::: {.wiersz}
-[2026]{.lewa}
+2. **Szanse i wyzwania w procesie transferu wiedzy i technologii w oparciu o mentoring instytucji otoczenia biznesu**  
+   *Lelakowska, Dominika; Boroń, Filip; Kaczmarczyk, Karolina; Madej, Kinga; Miszczyszyn, Jakub*  
+   *Przedsiębiorczość - Edukacja (2024), Volume 20, Issue 1*  
+   DOI: [10.24917/20833296.201.5](http://dx.doi.org/10.24917/20833296.201.5)
 
-[Spatial scaling of drought impacts on forest mortality: when climate signals emerge from local noise]{.tytul}\
-Tymińska-Czabańska, Luiza; Leszczyński; Janiec, Piotr; [Miszczyszyn, Jakub]{.ja}; Socha, Jarosław\
-[*Agricultural and Forest Meteorology* (2026), 385, 111213 · DOI: [10.1016/j.agrformet.2026.111213](https://doi.org/10.1016/j.agrformet.2026.111213)]{.zrodlo}
-:::
+3. **How to adequately determine the top height of forest stands based on airborne laser scanning point clouds?**  
+   *Hawryło, Paweł; Socha, Jarosław; Wężyk, Piotr; Ochał, Wojciech; Krawczyk, Wojciech; Miszczyszyn, Jakub; Tymińska-Czabańska, Luiza*  
+   *Forest Ecology and Management (2024), Volume 551*  
+   DOI: [10.1016/j.foreco.2023.120043](https://doi.org/10.1016/j.foreco.2023.120043)
 
-```{=html}
-<details class="wiecej-pozycji">
-<summary><span class="zamkniete" lang="pl">Rozwiń więcej</span><span class="zamkniete" lang="en">Show more</span><span class="otwarte" lang="pl">Zwiń</span><span class="otwarte" lang="en">Show less</span></summary>
-```
+## 2021
 
-::: {.wiersz}
-[2026]{.lewa}
+1. **Modelowanie 3D wybranych drzew na podstawie chmur punktów TLS LiDAR**  
+   *Bajorek-Zydroń, Katarzyna; Wężyk, Piotr; Żądło, Anna; Miszczyszyn, Jakub*  
+   *Drzewa w zieleni miejskiej (2021), ProGea 4D, Zarząd Zieleni Miejskiej w Krakowie, pp. 73-78*  
+   ISBN: 978-83-956787-4-0  
+   [Link do repozytorium URK](https://repo.ur.krakow.pl/info/article/UR3b37e4c3d3474fbeaf2169e823649a76)
 
-[A Central European tree species dataset of annotated terrestrial laser scanning point clouds – TreeScanPL10K]{.tytul}\
-Stereńczak; Kulicki; Kraszewski [i in.]{.content-visible when-profile="pl"}[et al.]{.content-visible when-profile="en"}\
-[*Scientific Data* (2026), 13(1), 1217 · DOI: [10.1038/s41597-026-07269-1](https://doi.org/10.1038/s41597-026-07269-1)]{.zrodlo}
-:::
+---
 
-::: {.wiersz}
-[2026]{.lewa}
+# Presentations:
 
-[Multi-Temporal Canopy Gaps Assessment Using Airborne Laser Scanning Data: The Case of the Protected Forests in the Carpathian Montane Ecosystem in Poland]{.tytul}\
-Marapao, Garry; Keren, Srdjan; [Miszczyszyn, Jakub]{.ja}\
-[*Remote Sensing* (2026), 18(7), 1045 · DOI: [10.3390/rs18071045](https://doi.org/10.3390/rs18071045)]{.zrodlo}
-:::
+1. **Dokładność i ograniczenia modelu High Resolution Canopy Height Maps (Meta & WRI): Studium przypadku Nadleśnictwa Zwierzyniec**  
+   *Natalia Rębisz, Jakub Miszczyszyn, Filip Iwaniec, Franciszek Błaś, Adam Ziółkowski*  
+   *Sesja Kół Naukowych Uniwersytetu Rolniczego im. Hugona Kołłątaja w Krakowie, May 2025*  
+   DOI: [10.13140/RG.2.2.10410.73929](http://dx.doi.org/10.13140/RG.2.2.10410.73929)
 
-::: {.wiersz}
-[2025]{.lewa}
+2. **Półautomatyczna metoda generowania sieci cieków w oparciu o wysokorozdzielczy Numeryczny Model Terenu**  
+   *Filip Iwaniec, Natalia Rębisz, Jakub Miszczyszyn, Paweł Hawryło*  
+   *Małopolski GISDAY 2024, November 2024*  
+   DOI: [10.13140/RG.2.2.29670.74560](http://dx.doi.org/10.13140/RG.2.2.29670.74560)
 
-[First application of multichannel GPR for root system variability analysis in Scots pine forests]{.tytul}\
-Tymińska-Czabańska, Luiza; Polak, Marcin; [Miszczyszyn, Jakub]{.ja}; Dąbrowski, Michał; Socha, Jarosław\
-[*Ecological Indicators* (2025), 179, 114282 · DOI: [10.1016/j.ecolind.2025.114282](https://doi.org/10.1016/j.ecolind.2025.114282)]{.zrodlo}
-:::
+3. **Monitoring of Scots pine stands in terms of hazards from Mistletoe - based on the analysis of high-resolution UAV images**  
+   *Jakub Miszczyszyn, Piotr Wężyk*  
+   *40th EARSeL Symposium, June 2021*  
+   [ResearchGate link](https://www.researchgate.net/publication/375635320_Monitoring_of_Scots_pine_stands_in_terms_of_hazards_from_Mistletoe_-_based_on_the_analysis_of_high-resolution_UAV_images)
 
-::: {.wiersz}
-[2024]{.lewa}
+4. **Analizy lokalizacji zalegania pokrywy śnieżnej w Bieszczadzkim Parku Narodowym w 2019 roku na podstawie niekomercyjnych zobrazowań satelitarnych Sentinel-2 oraz Landsat-8**  
+   *Jakub Miszczyszyn, Wojciech Krawczyk, Przemysław Mamuszka, Paweł Hawryło*  
+   *Sesja Kół Naukowych Uniwersytetu Rolniczego, May 2021*  
+   [ResearchGate link](https://www.researchgate.net/publication/377747936_Analizy_lokalizacji_zalegania_pokrywy_snieznej_w_Bieszczadzkim_Parku_Narodowym_w_2019_roku_na_podstawie_niekomercyjnych_zobrazowan_satelitarnych_Sentinel-2_oraz_Landsat-8)
 
-[A low-cost alternative to LiDAR for site index models: applying repeated digital aerial photogrammetry data in the modelling of forest top height growth]{.tytul}\
-Janiec, Piotr; Hawryło, Paweł; Tymińska-Czabańska, Luiza; [Miszczyszyn, Jakub]{.ja}; Socha, Jarosław\
-[*Forestry: An International Journal of Forest Research* (2024), cpae047 · DOI: [10.1093/forestry/cpae047](https://doi.org/10.1093/forestry/cpae047)]{.zrodlo}
-:::
+---
 
-::: {.wiersz}
-[2024]{.lewa}
+# Posters:
 
-[Szanse i wyzwania w procesie transferu wiedzy i technologii w oparciu o mentoring instytucji otoczenia biznesu]{.tytul}\
-Lelakowska, Dominika; Boroń, Filip; Kaczmarczyk, Karolina; Madej, Kinga; [Miszczyszyn, Jakub]{.ja}\
-[*Przedsiębiorczość – Edukacja* (2024), 20(1), 77–93 · DOI: [10.24917/20833296.201.5](https://doi.org/10.24917/20833296.201.5)]{.zrodlo}
-:::
+1. **Analysis of the information capability of spectral indices in remote sensing of mistletoe (Viscum album ssp. austriacum L.) in pine stands, acquired using unmanned aerial platforms (BSP)**  
+   *Jakub Miszczyszyn*  
+   *EnviLink, May 2024*  
+   [ResearchGate link](https://www.researchgate.net/publication/380604731_Analysis_of_the_information_capability_of_spectral_indices_in_remote_sensing_of_mistletoe_Viscum_album_ssp_austriacum_L_in_pine_stands_acquired_using_unmanned_aerial_platforms_BSP)
 
-::: {.wiersz}
-[2024]{.lewa}
+2. **IPC UAV photogrammetry vs ULS LiDAR - comparison of low-cost solutions for forest stands height determination**  
+   *Piotr Wężyk, Wojciech Krawczyk, Jakub Miszczyszyn*  
+   *Silvilaser 2023, September 2023*  
+   [ResearchGate link](https://www.researchgate.net/publication/375962883_IPC_UAV_photogrammetry_vs_ULS_LiDAR_-_comparison_of_low-cost_solutions_for_forest_stands_height_determination)
 
-[How to adequately determine the top height of forest stands based on airborne laser scanning point clouds?]{.tytul}\
-Hawryło, Paweł; Socha, Jarosław; Wężyk, Piotr; Ochał, Wojciech; Krawczyk, Wojciech; [Miszczyszyn, Jakub]{.ja}; Tymińska-Czabańska, Luiza\
-[*Forest Ecology and Management* (2024), 551, 121528 · DOI: [10.1016/j.foreco.2023.121528](https://doi.org/10.1016/j.foreco.2023.121528)]{.zrodlo}
-:::
+3. **Analiza dokładności pomiaru wysokości drzew z wykorzystaniem trójwymiarowych chmur punktów generowanych na bazie zdjęć BSP**  
+   *Jakub Miszczyszyn, Paweł Hawryło, Wojciech Krawczyk, Artur Golasz*  
+   *Małopolski GIS DAY 2022, November 2022*  
+   [ResearchGate link](https://www.researchgate.net/publication/375624480_Analiza_dokladnosci_pomiaru_wysokosci_drzew_z_wykorzystaniem_trojwymiarowych_chmur_punktow_generowanych_na_bazie_zdjec_BSP)
 
-### [Rozdział w monografii]{.content-visible when-profile="pl"}[Book chapter]{.content-visible when-profile="en"}
-
-::: {.wiersz}
-[2021]{.lewa}
-
-[Modelowanie 3D wybranych drzew na podstawie chmur punktów TLS LiDAR]{.tytul}\
-Bajorek-Zydroń, Katarzyna; Wężyk, Piotr; Żądło, Anna; [Miszczyszyn, Jakub]{.ja}\
-[[W: P. Sewerniak, P. Wężyk (red.),]{.content-visible when-profile="pl"}[In: P. Sewerniak, P. Wężyk (eds.),]{.content-visible when-profile="en"} *Drzewa w zieleni miejskiej* (2021), ProGea 4D, Zarząd Zieleni Miejskiej w Krakowie, [s. 73–78]{.content-visible when-profile="pl"}[pp. 73–78]{.content-visible when-profile="en"} · ISBN: 978-83-956787-4-0 · [[Repozytorium URK]{.content-visible when-profile="pl"}[URK Repository]{.content-visible when-profile="en"}](https://repo.ur.krakow.pl/info/article/UR3b37e4c3d3474fbeaf2169e823649a76)]{.zrodlo}
-:::
-
-```{=html}
-</details>
-```
-
-:::::
+4. **Detection of mistletoe (Viscum album ssp. austriacum L.) in Scots pine stands using the MS and RGB UAV high resolution orthophoto**  
+   *Jakub Miszczyszyn, Piotr Wężyk*  
+   *ForestSAT 2022, September 2022*  
+   [ResearchGate link](https://www.researchgate.net/publication/375592451_Detection_of_mistletoe_Viscum_album_ssp_austriacum_L_in_Scots_pine_stands_using_the_MS_and_RGB_UAV_high_resolution_orthophoto)

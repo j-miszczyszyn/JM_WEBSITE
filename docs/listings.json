@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/welcome/index.html"

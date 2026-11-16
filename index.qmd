@@ -1,55 +1,28 @@
 ---
-pagetitle: "{{< meta strony.index.pagetitle >}}"
-description: "{{< meta strony.index.description >}}"
+title: "Jakub Miszczyszyn"
 image: assets/images/jm.webp
-page-layout: full
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jakub-miszczyszyn-bab31b1b8/
+    - icon: github
+      text: Github
+      href: https://github.com/j-miszczyszyn
+    - text: "<img src='assets/icons/orcid.svg' alt='ORCID' style='height: 15px; vertical-align: middle;'> ORCID"
+      href: https://orcid.org/0009-0002-8592-946X
+    - text: "<img src='assets/icons/google-scholar.svg' alt='Google Scholar' style='height: 20px; vertical-align: middle;'> Google Scholar"
+      href: https://scholar.google.com/citations?user=OyrD-UYAAAAJ&hl=en&oi=ao
+    - text: "<img src='assets/icons/RG.svg' alt='Researchgate' style='height: 20px; vertical-align: middle;'> Researchgate"
+      href: https://www.researchgate.net/profile/Jakub-Miszczyszyn
+    - text: "<img src='assets/icons/logo_URK.svg' alt='My Staff Profile at the University of Agriculture in Krakow' style='height: 20px; vertical-align: middle;'> My Staff Profile at the University of Agriculture in Krakow"
+      href: https://kzzl.urk.edu.pl/pracownicy/jakubmiszczyszyn-15.html  
+    - text: "<img src='assets/icons/repo_URK.svg' alt='Repository of the University of Agriculture in Krakow' style='height: 20px; vertical-align: middle;'> Repository of the University of Agriculture in Krakow"
+      href: https://repo.ur.krakow.pl/info/author/URffe710e529174126807f9ed0e09f9826?r=publication&ps=20&title=Profil%2Bosoby%2B%25E2%258
 ---
-
-::::::: {.strona-glowna}
-
-::::: {.wizytowka}
-:::: {.opis}
-```{=html}
-<h1><span class="imie">Jakub</span> <span class="nazwisko">Miszczyszyn</span></h1>
-```
-
-::: {.content-visible when-profile="pl"}
-[Geoinformatyka i teledetekcja w leśnictwie]{.rola}
-
-[Katedra Zarządzania Zasobami Leśnymi, Wydział Leśny\
-Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie]{.afiliacja}
-
-Zajmuję się geoinformatyką, teledetekcją i analizą danych przestrzennych. Jako pracownik wspierający działalność naukowo-dydaktyczną uczestniczę w badaniach i zajęciach prowadzonych na Uniwersytecie Rolniczym w Krakowie, a także jestem opiekunem Sekcji Geomatyki Koła Naukowego Leśników.
-
-W pracy łączę programowanie w R z pozyskiwaniem danych za pomocą bezzałogowych statków powietrznych, skanowania laserowego LiDAR oraz kamer wielospektralnych i termalnych.
+::: {style="text-align: center;"}
+I am a specialist in geoinformatics, remote sensing, and spatial data analysis. As a technician, I actively support the scientific and educational activities at the **University of Agriculture in Krakow**, including serving as the supervisor of the Geomatics Section of the Forestry Students' Scientific Association.\
+My experience includes: **Programming in R**, **Operating drones**, acquiring data using **LiDAR** technology, as well as **multispectral** and **thermal cameras**. I am passionate about photography and studying forest ecosystems, combining modern technologies with practical applications in environmental protection.\
+My mission is to promote sustainable natural resource management by implementing innovative technological solutions.
 :::
-
-::: {.content-visible when-profile="en"}
-[Geoinformatics and remote sensing in forestry]{.rola}
-
-[Department of Forest Resources Management, Faculty of Forestry\
-University of Agriculture in Krakow]{.afiliacja}
-
-I work in geoinformatics, remote sensing and spatial data analysis. I support the scientific and educational activities at the University of Agriculture in Krakow and supervise the Geomatics Section of the Forestry Students' Scientific Association.
-
-My work combines programming in R with data acquisition using unmanned aerial vehicles, LiDAR laser scanning, and multispectral and thermal cameras.
-:::
-
-::: {.odnosniki}
-[ORCID](https://orcid.org/0009-0002-8592-946X)
-[Google Scholar](https://scholar.google.com/citations?user=OyrD-UYAAAAJ)
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=58677978100)
-[ResearchGate](https://www.researchgate.net/profile/Jakub-Miszczyszyn)
-[GitHub](https://github.com/j-miszczyszyn)
-[LinkedIn](https://www.linkedin.com/in/jakub-miszczyszyn-bab31b1b8/)
-[[Profil pracownika KZZL]{.content-visible when-profile="pl"}[Staff profile (KZZL)]{.content-visible when-profile="en"}](https://kzzl.urk.edu.pl/pracownicy/jakubmiszczyszyn-15.html)
-[[Repozytorium URK]{.content-visible when-profile="pl"}[URK Repository]{.content-visible when-profile="en"}](https://repo.ur.krakow.pl/info/author/URffe710e529174126807f9ed0e09f9826?r=publication&ps=20&title=Profil%2Bosoby%2B%25E2%258)
-:::
-::::
-
-:::: {.zdjecie}
-![](assets/images/jm.webp){alt="Jakub Miszczyszyn" .nolightbox}
-::::
-:::::
-
-:::::::
